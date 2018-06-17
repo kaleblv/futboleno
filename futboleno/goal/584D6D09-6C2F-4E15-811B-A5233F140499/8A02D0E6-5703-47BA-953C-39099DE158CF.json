@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 8,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "Flamengo"
+    "string": "Santos"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "8A02D0E6-5703-47BA-953C-39099DE158CF",
@@ -49,20 +49,20 @@
     "constrainProportions": false,
     "do_objectID": "C7298320-7BB5-4A8E-8BE8-92E8D6A405C4",
     "height": 20,
-    "width": 67,
+    "width": 46,
     "x": 70,
     "y": 137
   },
-  "glyphBounds": "{{0, 0}, {67, 20}}",
+  "glyphBounds": "{{0, 5}, {46, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Flamengo",
+  "name": "Santos",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,

@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+              "name": "Roboto-Light",
               "size": 13
             }
           },
@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 8,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "Paris SG"
+    "string": "Chivas"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "34402DC9-182F-4BD3-914F-319B8BD30526",
@@ -49,20 +49,20 @@
     "constrainProportions": false,
     "do_objectID": "1DE4B25C-A7A7-42AA-9F15-6F58212BD290",
     "height": 18,
-    "width": 51,
+    "width": 39,
     "x": 70,
     "y": 337
   },
-  "glyphBounds": "{{0, 0}, {51, 18}}",
+  "glyphBounds": "{{0, 4}, {38, 11}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Paris SG",
+  "name": "Chivas",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
@@ -84,7 +84,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+            "name": "Roboto-Light",
             "size": 13
           }
         },

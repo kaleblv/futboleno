@@ -29,7 +29,7 @@
         "location": 0
       }
     ],
-    "string": "Defense"
+    "string": "Defensa"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "F3226829-866F-4AD2-83C1-DF48CD848E2A",
@@ -52,16 +52,16 @@
     "x": 16.33333333333326,
     "y": 340
   },
-  "glyphBounds": "{{0, 0}, {40, 15}}",
+  "glyphBounds": "{{0, 3}, {40, 10}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Defense",
+  "name": "Defensa",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,

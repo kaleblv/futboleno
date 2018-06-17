@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+              "name": "Roboto-Light",
               "size": 12
             }
           },
@@ -29,7 +29,7 @@
         "location": 0
       }
     ],
-    "string": "FIXTURES"
+    "string": "PARTIDOS"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "AE4BE8A3-7A3D-4337-AC18-01843448169E",
@@ -47,20 +47,20 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 56,
-    "x": 87.62068965517255,
+    "width": 55,
+    "x": 99.62068965517255,
     "y": 217.9655172413793
   },
-  "glyphBounds": "{{0, 0}, {56, 16}}",
+  "glyphBounds": "{{1, 4}, {54, 10}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "FIXTURES",
+  "name": "PARTIDOS",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
@@ -88,7 +88,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+            "name": "Roboto-Light",
             "size": 12
           }
         },

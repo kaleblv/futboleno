@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+              "name": "Roboto-Light",
               "size": 12
             }
           },
@@ -29,7 +29,7 @@
         "location": 0
       }
     ],
-    "string": "ABOUT"
+    "string": "SOBRE"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "74B8FBFB-02A8-48C9-981B-2E277FE4FC8F",
@@ -47,20 +47,20 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 39,
+    "width": 38,
     "x": 251.6206896551724,
     "y": 193.9655172413791
   },
-  "glyphBounds": "{{0, 0}, {39, 16}}",
+  "glyphBounds": "{{0, 4}, {37, 10}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "ABOUT",
+  "name": "SOBRE",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
@@ -87,7 +87,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+            "name": "Roboto-Light",
             "size": 12
           }
         },

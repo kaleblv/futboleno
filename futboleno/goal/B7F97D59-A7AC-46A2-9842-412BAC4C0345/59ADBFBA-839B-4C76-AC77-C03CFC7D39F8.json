@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+              "name": "Roboto-Light",
               "size": 13
             }
           },
@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 15,
+        "length": 17,
         "location": 0
       }
     ],
-    "string": "Rodrigo Santino"
+    "string": "Alberto Rodriguez"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "59ADBFBA-839B-4C76-AC77-C03CFC7D39F8",
@@ -49,20 +49,20 @@
     "constrainProportions": false,
     "do_objectID": "91F205F9-EFD8-4E8E-B870-40A44106E76C",
     "height": 18,
-    "width": 95,
+    "width": 102,
     "x": 70,
     "y": 90
   },
-  "glyphBounds": "{{0, 0}, {95, 18}}",
+  "glyphBounds": "{{0, 4}, {102, 13}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Rodrigo Santino",
+  "name": "Alberto Rodriguez",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
@@ -84,7 +84,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+            "name": "Roboto-Light",
             "size": 13
           }
         },

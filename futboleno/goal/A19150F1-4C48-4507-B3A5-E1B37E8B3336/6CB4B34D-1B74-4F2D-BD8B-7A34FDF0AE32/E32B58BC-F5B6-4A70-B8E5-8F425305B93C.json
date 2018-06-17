@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+              "name": "Roboto-Light",
               "size": 15
             }
           },
@@ -27,11 +27,11 @@
             "minimumLineHeight": 23
           }
         },
-        "length": 49,
+        "length": 60,
         "location": 0
       }
     ],
-    "string": "Join 1.5 million fans and\nfollow Man United news!"
+    "string": "¡Unete a millones de fans y sigue\nlas noticias de futboleno!"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "E32B58BC-F5B6-4A70-B8E5-8F425305B93C",
@@ -50,20 +50,20 @@
     "constrainProportions": false,
     "do_objectID": "E4CCF588-053E-4653-BF2C-D3736DF7D1E4",
     "height": 46,
-    "width": 186,
+    "width": 215,
     "x": 21,
     "y": 29
   },
-  "glyphBounds": "{{0, 0}, {186, 46}}",
+  "glyphBounds": "{{1, 4}, {213, 36}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 1,
-  "name": "Join 1.5 million fan",
+  "name": "¡Unete a millones de",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
@@ -86,7 +86,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+            "name": "Roboto-Light",
             "size": 15
           }
         },

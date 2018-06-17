@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+              "name": "Roboto-Light",
               "size": 11
             }
           },
@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 10,
+        "length": 11,
         "location": 0
       }
     ],
-    "string": "2 days ago"
+    "string": "Hace 2 dias"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "AD6E6A5A-2120-481D-BC45-B3EA4333EB44",
@@ -48,20 +48,20 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 15,
-    "width": 54,
+    "width": 57,
     "x": 21,
     "y": 91
   },
-  "glyphBounds": "{{0, 0}, {54, 15}}",
+  "glyphBounds": "{{0, 3}, {56, 10}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "2 days ago",
+  "name": "Hace 2 dias",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
@@ -85,7 +85,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+            "name": "Roboto-Light",
             "size": 11
           }
         },

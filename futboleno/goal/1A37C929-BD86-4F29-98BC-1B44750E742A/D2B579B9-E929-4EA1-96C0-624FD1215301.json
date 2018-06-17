@@ -27,38 +27,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 10,
+        "length": 7,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Roboto-Light",
-              "size": 15
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2,
-            "allowsDefaultTighteningForTruncation": 0
-          }
-        },
-        "length": 1,
-        "location": 10
       }
     ],
-    "string": "GET STARTED"
+    "string": "EMPEZAR"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "D2B579B9-E929-4EA1-96C0-624FD1215301",
@@ -77,20 +50,20 @@
     "constrainProportions": false,
     "do_objectID": "F6A84094-D620-4032-BEF9-462AF06B9F12",
     "height": 20,
-    "width": 114,
-    "x": 123,
+    "width": 81,
+    "x": 139.5,
     "y": 579
   },
-  "glyphBounds": "{{0, 0}, {114, 20}}",
+  "glyphBounds": "{{1, 5}, {77, 11}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 1,
-  "name": "GET STARTED",
+  "name": "EMPEZAR",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

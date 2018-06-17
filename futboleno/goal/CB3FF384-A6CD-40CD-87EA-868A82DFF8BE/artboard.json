@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
@@ -63,6 +63,10 @@
     {
       "class": "group",
       "id": "8D9A6191-A7A9-43C4-A600-19EEFDC64659"
+    },
+    {
+      "class": "bitmap",
+      "id": "56F7A61C-DF43-4141-99B6-03D39C6572E7"
     }
   ],
   "name": "team_season",

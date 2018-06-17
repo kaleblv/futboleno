@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+              "name": "Roboto-Light",
               "size": 13
             }
           },
@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 21,
+        "length": 17,
         "location": 0
       }
     ],
-    "string": "Barcelona 6 x 0 Elche"
+    "string": "Pumas 3 x 0 Atlas"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "8BF39F2F-872C-460D-AACC-B27468FA65D5",
@@ -48,20 +48,20 @@
     "constrainProportions": false,
     "do_objectID": "28CC5DC1-99E6-4A9F-BE74-A4B90DFEBD6D",
     "height": 18,
-    "width": 125,
+    "width": 103,
     "x": 19.66666666666663,
     "y": 184
   },
-  "glyphBounds": "{{0, 0}, {125, 18}}",
+  "glyphBounds": "{{1, 4}, {101, 11}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Barcelona 6 x 0 Elch",
+  "name": "Pumas 3 x 0 Atlas",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
@@ -83,7 +83,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+            "name": "Roboto-Light",
             "size": 13
           }
         },

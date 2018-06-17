@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 13,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "Who will win?"
+    "string": "¿Quién ganará?"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "6627FE1B-A196-455B-BAEC-8A711D55121F",
@@ -49,20 +49,20 @@
     "constrainProportions": false,
     "do_objectID": "8D08A0CE-1A6C-44CA-AF8D-1158A93DC3A4",
     "height": 15,
-    "width": 66,
-    "x": 137.1666666666667,
+    "width": 74,
+    "x": 133.1666666666667,
     "y": 7.666666666666742
   },
-  "glyphBounds": "{{0, 0}, {66, 15}}",
+  "glyphBounds": "{{0, 3}, {74, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Who will win?",
+  "name": "¿Quién ganará?",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,

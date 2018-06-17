@@ -16,22 +16,22 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+              "name": "Roboto-Light",
               "size": 20
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 67,
-            "minimumLineHeight": 67
+            "maximumLineHeight": 25,
+            "minimumLineHeight": 25
           }
         },
-        "length": 26,
+        "length": 42,
         "location": 0
       }
     ],
-    "string": "Neymar loving every minute"
+    "string": "Pumas sorprende con bajas \ny transferibles"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "16E4CDD4-26CD-454E-B652-8CA40DF51C90",
@@ -49,21 +49,21 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "6BC4BBE9-F979-4AD2-9582-D6ED6444FF82",
-    "height": 67,
-    "width": 288,
-    "x": 29,
-    "y": 196
+    "height": 50,
+    "width": 250,
+    "x": 31,
+    "y": 238
   },
-  "glyphBounds": "{{0, 0}, {288, 67}}",
+  "glyphBounds": "{{0, 5}, {244, 45}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 0,
-  "name": "Neymar loving every ",
+  "lineSpacingBehaviour": 2,
+  "name": "Pumas sorprende con",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
@@ -87,15 +87,15 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+            "name": "Roboto-Light",
             "size": 20
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 67,
-          "minimumLineHeight": 67
+          "maximumLineHeight": 25,
+          "minimumLineHeight": 25
         }
       },
       "verticalAlignment": 0

@@ -27,6 +27,18 @@
   "name": "header_club",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "66AAE27C-470B-4113-9B12-F846D6A5F3FE",
+      "overrideName": "22A62BE3-3EB0-4476-8409-00F19ED1087F_stringValue",
+      "value": "Santos"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3047CBB6-2226-4C43-99F4-B6B20FC47750",
+      "overrideName": "33DC2AAD-1A03-45CA-8F2E-08249E9A9ABD_stringValue",
+      "value": "México"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

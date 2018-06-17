@@ -22,15 +22,15 @@
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
+            "alignment": 1,
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 11,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "O Marseille"
+    "string": "Atlas"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "E9089742-3322-4821-B9B9-FD13F4393C0A",
@@ -49,20 +49,20 @@
     "constrainProportions": false,
     "do_objectID": "F692A17D-6108-4700-B94E-A34E84010A34",
     "height": 18,
-    "width": 64,
-    "x": 257,
+    "width": 29,
+    "x": 292,
     "y": 49
   },
-  "glyphBounds": "{{0, 0}, {64, 18}}",
+  "glyphBounds": "{{0, 4}, {28, 11}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "O Marseille",
+  "name": "Atlas",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
@@ -92,7 +92,7 @@
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
+          "alignment": 1,
           "allowsDefaultTighteningForTruncation": 0
         }
       },

@@ -22,15 +22,15 @@
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
+            "alignment": 1,
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 11,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "O. Lyonnais"
+    "string": "Monarcas"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "BB949BD8-B4F3-420F-AFA0-9D236517A687",
@@ -48,20 +48,20 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 18,
-    "width": 66,
-    "x": 256,
+    "width": 58,
+    "x": 264,
     "y": 49
   },
-  "glyphBounds": "{{0, 0}, {65, 18}}",
+  "glyphBounds": "{{1, 4}, {56, 11}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "O. Lyonnais",
+  "name": "Monarcas",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
@@ -91,7 +91,7 @@
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
+          "alignment": 1,
           "allowsDefaultTighteningForTruncation": 0
         }
       },

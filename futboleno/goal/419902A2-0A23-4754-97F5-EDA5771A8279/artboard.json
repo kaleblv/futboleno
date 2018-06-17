@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
@@ -79,6 +79,10 @@
     {
       "class": "group",
       "id": "D345437E-9CC0-4B92-B86F-03AFB0CD0961"
+    },
+    {
+      "class": "bitmap",
+      "id": "5E425DFC-8A8B-472A-ABDB-27435A7FEFDD"
     }
   ],
   "name": "team_fixture",

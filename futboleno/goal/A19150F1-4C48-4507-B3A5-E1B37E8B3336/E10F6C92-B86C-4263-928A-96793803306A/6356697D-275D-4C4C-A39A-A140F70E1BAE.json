@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+              "name": "Roboto-Light",
               "size": 12
             }
           },
@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 8,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "Flamengo"
+    "string": "Monterrey"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "6356697D-275D-4C4C-A39A-A140F70E1BAE",
@@ -52,16 +52,16 @@
     "x": 55,
     "y": 95
   },
-  "glyphBounds": "{{0, 0}, {54, 16}}",
+  "glyphBounds": "{{1, 4}, {53, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 1,
-  "name": "Flamengo",
+  "name": "Monterrey",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
@@ -85,7 +85,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+            "name": "Roboto-Light",
             "size": 12
           }
         },

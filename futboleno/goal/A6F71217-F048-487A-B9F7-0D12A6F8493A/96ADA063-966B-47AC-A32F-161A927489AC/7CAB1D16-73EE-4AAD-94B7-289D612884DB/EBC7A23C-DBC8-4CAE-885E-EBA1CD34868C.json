@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+              "name": "Roboto-Light",
               "size": 15
             }
           },
@@ -27,11 +27,11 @@
             "minimumLineHeight": 22
           }
         },
-        "length": 61,
+        "length": 87,
         "location": 0
       }
     ],
-    "string": "Brazilian duo Luiz and\rThiago Silva celebrate\rdefender’s goal"
+    "string": "La Directiva ya ha contactado\ncon el sustituto de David Patiño \nEl próximo DT de Santos"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "EBC7A23C-DBC8-4CAE-885E-EBA1CD34868C",
@@ -49,20 +49,20 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 66,
-    "width": 169,
+    "width": 210,
     "x": 21,
     "y": 12
   },
-  "glyphBounds": "{{0, 0}, {169, 66}}",
+  "glyphBounds": "{{0, 4}, {206, 60}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 1,
-  "name": "Brazilian duo Luiz a",
+  "name": "La Directiva ya ha c",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
@@ -86,7 +86,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+            "name": "Roboto-Light",
             "size": 15
           }
         },

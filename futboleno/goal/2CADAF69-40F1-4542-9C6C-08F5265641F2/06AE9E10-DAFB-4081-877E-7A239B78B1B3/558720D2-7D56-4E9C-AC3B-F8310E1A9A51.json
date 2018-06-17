@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 10,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "Goalkeeper"
+    "string": "Portero"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "558720D2-7D56-4E9C-AC3B-F8310E1A9A51",
@@ -48,20 +48,20 @@
     "constrainProportions": false,
     "do_objectID": "F160782A-33BA-49A4-9ED6-A37CBEF4E200",
     "height": 15,
-    "width": 55,
+    "width": 36,
     "x": 16.33333333333326,
     "y": 93.33333333333326
   },
-  "glyphBounds": "{{0, 0}, {55, 15}}",
+  "glyphBounds": "{{0, 4}, {36, 9}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Goalkeeper",
+  "name": "Portero",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,

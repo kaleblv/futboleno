@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 13,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "Laurent Blanc"
+    "string": "Robert Siboldi"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "03AAC067-4567-4852-8D19-5C142A289D3C",
@@ -49,20 +49,20 @@
     "constrainProportions": false,
     "do_objectID": "BC4A7C25-2333-45EB-A9D6-1609530BD8BD",
     "height": 18,
-    "width": 79,
+    "width": 80,
     "x": 72,
     "y": 44
   },
-  "glyphBounds": "{{0, 0}, {79, 18}}",
+  "glyphBounds": "{{1, 4}, {78, 11}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 1,
-  "name": "Laurent Blanc",
+  "name": "Robert Siboldi",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,

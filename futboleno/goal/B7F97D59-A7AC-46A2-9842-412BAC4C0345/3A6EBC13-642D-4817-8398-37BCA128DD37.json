@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+              "name": "Roboto-Light",
               "size": 13
             }
           },
@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 11,
+        "length": 15,
         "location": 0
       }
     ],
-    "string": "All Leagues"
+    "string": "Todas las ligas"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "3A6EBC13-642D-4817-8398-37BCA128DD37",
@@ -49,20 +49,20 @@
     "constrainProportions": false,
     "do_objectID": "2AA4744F-F886-4D23-8F82-09C08DE12D64",
     "height": 18,
-    "width": 68,
+    "width": 86,
     "x": 70,
     "y": 454
   },
-  "glyphBounds": "{{0, 0}, {68, 18}}",
+  "glyphBounds": "{{0, 4}, {85, 13}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "All Leagues",
+  "name": "Todas las ligas",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
@@ -84,7 +84,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+            "name": "Roboto-Light",
             "size": 13
           }
         },

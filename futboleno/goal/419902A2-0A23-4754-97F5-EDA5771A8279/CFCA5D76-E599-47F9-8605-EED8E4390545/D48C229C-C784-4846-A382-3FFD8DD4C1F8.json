@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 16,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "Champions League"
+    "string": "Liga MX"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "D48C229C-C784-4846-A382-3FFD8DD4C1F8",
@@ -48,20 +48,20 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 13,
-    "width": 85,
-    "x": 138,
+    "width": 36,
+    "x": 162.5,
     "y": 9
   },
-  "glyphBounds": "{{0, 0}, {85, 13}}",
+  "glyphBounds": "{{0, 2}, {36, 11}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Champions League",
+  "name": "Liga MX",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,

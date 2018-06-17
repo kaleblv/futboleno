@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+              "name": "Roboto-Light",
               "size": 13
             }
           },
@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 8,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "Flamengo"
+    "string": "Pumas"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "D8D01DE0-3195-4360-B706-9D80724C97B0",
@@ -49,20 +49,20 @@
     "constrainProportions": false,
     "do_objectID": "0887BA75-666D-4FD2-9B7D-B476352063AF",
     "height": 18,
-    "width": 59,
+    "width": 41,
     "x": 70,
     "y": 287
   },
-  "glyphBounds": "{{0, 0}, {59, 18}}",
+  "glyphBounds": "{{1, 4}, {39, 11}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Flamengo",
+  "name": "Pumas",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
@@ -84,7 +84,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+            "name": "Roboto-Light",
             "size": 13
           }
         },

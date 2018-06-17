@@ -28,11 +28,11 @@
             "minimumLineHeight": 40
           }
         },
-        "length": 142,
+        "length": 166,
         "location": 0
       }
     ],
-    "string": "Manuel Neuer\rJuan Bernat\rJerome Boateng\rDavid Alaba\rRafinha\rSchwinsteinteiger\rXabi Alonso\rMario Götze\rArjen Robben\rThomas Müller\rFranck Ribéry"
+    "string": "Ulises Rivas\nGerardo Arteaga\rDavid Andrade\rJorge Villafaña\nBryan Rabello\rDjaniny Tavares\rJosé Juan Vázquez\rCarlos Izquierdoz\nJavier Cortés\rCris Martínez\rFranck Ribéry"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "35109C23-C4A2-4B9B-9DC0-CD17693F54D6",
@@ -51,20 +51,20 @@
     "constrainProportions": false,
     "do_objectID": "BE8FCBE0-A77A-4AD7-B275-A558B9D3B0E0",
     "height": 440,
-    "width": 102,
-    "x": 188,
+    "width": 112,
+    "x": 178,
     "y": 73.33333333333326
   },
-  "glyphBounds": "{{0, 0}, {102, 440}}",
+  "glyphBounds": "{{0, 4}, {112, 413}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 1,
-  "name": "Manuel Neuer\rJuan Be",
+  "name": "Ulises Rivas Gerardo",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,

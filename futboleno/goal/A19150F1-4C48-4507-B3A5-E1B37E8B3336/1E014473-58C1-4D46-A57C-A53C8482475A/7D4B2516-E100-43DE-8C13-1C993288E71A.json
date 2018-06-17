@@ -16,21 +16,21 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+              "name": "Roboto-Light",
               "size": 11
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
+            "alignment": 1,
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 5,
+        "length": 3,
         "location": 0
       }
     ],
-    "string": "Today"
+    "string": "Hoy"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "7D4B2516-E100-43DE-8C13-1C993288E71A",
@@ -49,20 +49,20 @@
     "constrainProportions": false,
     "do_objectID": "725AABE2-7AFE-498D-8C92-EC2237463005",
     "height": 15,
-    "width": 31,
-    "x": 289,
+    "width": 20,
+    "x": 299,
     "y": 263
   },
-  "glyphBounds": "{{0, 0}, {31, 15}}",
+  "glyphBounds": "{{0, 4}, {20, 11}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Today",
+  "name": "Hoy",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
@@ -86,13 +86,13 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+            "name": "Roboto-Light",
             "size": 11
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
+          "alignment": 1,
           "allowsDefaultTighteningForTruncation": 0
         }
       },

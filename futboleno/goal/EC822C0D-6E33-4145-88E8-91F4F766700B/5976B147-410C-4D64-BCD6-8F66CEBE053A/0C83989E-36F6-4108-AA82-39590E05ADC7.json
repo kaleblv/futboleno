@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+              "name": "Roboto-Light",
               "size": 10
             }
           },
@@ -28,11 +28,11 @@
             "minimumLineHeight": 28
           }
         },
-        "length": 31,
+        "length": 32,
         "location": 0
       }
     ],
-    "string": "Date\nStadium\nAttendance\nReferee"
+    "string": "Fecha\nEstadio\nAsistencia\nArbitro"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "0C83989E-36F6-4108-AA82-39590E05ADC7",
@@ -51,20 +51,20 @@
     "constrainProportions": false,
     "do_objectID": "E2D4236A-25C1-4414-9A4E-A0D49ECF3696",
     "height": 112,
-    "width": 52,
+    "width": 46,
     "x": 18.33333333333334,
     "y": 48
   },
-  "glyphBounds": "{{0, 0}, {52, 112}}",
+  "glyphBounds": "{{0, 2}, {45, 93}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 1,
-  "name": "Date",
+  "name": "Fecha Estadio Asiste",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
@@ -86,7 +86,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+            "name": "Roboto-Light",
             "size": 10
           }
         },

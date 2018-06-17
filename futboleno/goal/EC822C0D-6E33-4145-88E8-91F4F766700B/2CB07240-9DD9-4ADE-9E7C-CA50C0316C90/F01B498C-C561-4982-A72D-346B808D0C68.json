@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 8,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "AWAY WIN"
+    "string": "VISITANTE GANA"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "F01B498C-C561-4982-A72D-346B808D0C68",
@@ -49,20 +49,20 @@
     "constrainProportions": false,
     "do_objectID": "3249115B-63ED-4FF6-B06E-A737AB4FEC31",
     "height": 13,
-    "width": 48,
-    "x": 253.6666666666667,
+    "width": 77,
+    "x": 239.1666666666667,
     "y": 91.33333333333326
   },
-  "glyphBounds": "{{0, 0}, {48, 13}}",
+  "glyphBounds": "{{0, 2}, {77, 9}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "AWAY WIN",
+  "name": "VISITANTE GANA",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,

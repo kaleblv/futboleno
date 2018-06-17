@@ -16,20 +16,21 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+              "name": "Roboto-Light",
               "size": 12
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
+            "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 5,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "STATS"
+    "string": "NÚMEROS"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "F2D5DBB8-5FAD-40AD-802C-35BED3E6F713",
@@ -48,20 +49,20 @@
     "constrainProportions": false,
     "do_objectID": "E7CF7C1C-6E3F-468B-974F-05E00FD2A396",
     "height": 16,
-    "width": 37,
-    "x": 189.6206896551726,
+    "width": 57,
+    "x": 176.6206896551726,
     "y": 194.9655172413793
   },
-  "glyphBounds": "{{0, 0}, {37, 16}}",
+  "glyphBounds": "{{1, 2}, {55, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "STATS",
+  "name": "NÚMEROS",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
@@ -83,12 +84,13 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+            "name": "Roboto-Light",
             "size": 12
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
+          "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0
         }
       },

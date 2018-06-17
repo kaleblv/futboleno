@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+              "name": "Roboto-Light",
               "size": 13
             }
           },
@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 15,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "Following clubs"
+    "string": "Clubs que sigo"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "DE3039BA-290B-451E-B992-A22119D226EB",
@@ -48,20 +48,20 @@
     "constrainProportions": false,
     "do_objectID": "6FE39E9B-E4E1-45F0-84CD-65C9D21BD284",
     "height": 18,
-    "width": 92,
+    "width": 84,
     "x": 18,
     "y": 194
   },
-  "glyphBounds": "{{0, 0}, {92, 18}}",
+  "glyphBounds": "{{0, 4}, {84, 13}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Following clubs",
+  "name": "Clubs que sigo",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
@@ -83,7 +83,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+            "name": "Roboto-Light",
             "size": 13
           }
         },

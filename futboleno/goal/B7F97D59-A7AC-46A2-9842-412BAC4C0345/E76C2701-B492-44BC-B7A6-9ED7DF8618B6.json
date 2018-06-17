@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+              "name": "Roboto-Light",
               "size": 13
             }
           },
@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 8,
+        "length": 13,
         "location": 0
       }
     ],
-    "string": "Settings"
+    "string": "Configuración"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "E76C2701-B492-44BC-B7A6-9ED7DF8618B6",
@@ -49,20 +49,20 @@
     "constrainProportions": false,
     "do_objectID": "B6560B49-5258-4386-888F-9EE636450207",
     "height": 18,
-    "width": 49,
+    "width": 80,
     "x": 70,
     "y": 553
   },
-  "glyphBounds": "{{0, 0}, {49, 18}}",
+  "glyphBounds": "{{0, 4}, {79, 13}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Settings",
+  "name": "Configuración",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
@@ -84,7 +84,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+            "name": "Roboto-Light",
             "size": 13
           }
         },

@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+              "name": "Roboto-Light",
               "size": 13
             }
           },
@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 17,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "Manchester United"
+    "string": "Cruz Azul"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "23A2E8AD-E7B5-442E-AC50-42C76F245156",
@@ -49,20 +49,20 @@
     "constrainProportions": false,
     "do_objectID": "5E46C3D0-8BD2-4E83-9E28-605A73ECCDBF",
     "height": 18,
-    "width": 112,
+    "width": 54,
     "x": 70,
     "y": 386
   },
-  "glyphBounds": "{{0, 0}, {112, 18}}",
+  "glyphBounds": "{{0, 4}, {53, 11}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Manchester United",
+  "name": "Cruz Azul",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
@@ -84,7 +84,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+            "name": "Roboto-Light",
             "size": 13
           }
         },

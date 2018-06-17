@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "Jan 30"
+    "string": "Ene 30"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "DD26CAFC-69A1-412E-97C7-710971F0C3A1",
@@ -49,20 +49,20 @@
     "constrainProportions": false,
     "do_objectID": "8509649C-2F45-4E59-87C7-60B5604ABD27",
     "height": 13,
-    "width": 31,
-    "x": 290,
+    "width": 30,
+    "x": 291,
     "y": 9
   },
-  "glyphBounds": "{{0, 0}, {31, 13}}",
+  "glyphBounds": "{{0, 2}, {30, 9}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Jan 30",
+  "name": "Ene 30",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,

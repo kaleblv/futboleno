@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "text",
@@ -75,6 +75,10 @@
     {
       "class": "shapeGroup",
       "id": "5A013EC7-7AFF-4039-B266-ED92CA9D4975"
+    },
+    {
+      "class": "bitmap",
+      "id": "DA87EB6F-B58D-4027-B57D-54BA01D3EA47"
     },
     {
       "class": "text",

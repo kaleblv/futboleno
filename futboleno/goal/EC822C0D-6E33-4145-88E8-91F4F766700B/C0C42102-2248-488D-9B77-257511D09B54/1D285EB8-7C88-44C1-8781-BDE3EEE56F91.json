@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 19,
+        "length": 22,
         "location": 0
       }
     ],
-    "string": "Match will start in"
+    "string": "El partido empezara en"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "1D285EB8-7C88-44C1-8781-BDE3EEE56F91",
@@ -49,20 +49,20 @@
     "constrainProportions": false,
     "do_objectID": "D1EB99D5-6C28-4978-99CD-8A9E4B340EF6",
     "height": 15,
-    "width": 87,
-    "x": 127,
+    "width": 111,
+    "x": 115,
     "y": 8
   },
-  "glyphBounds": "{{0, 0}, {87, 15}}",
+  "glyphBounds": "{{0, 3}, {110, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Match will start in",
+  "name": "El partido empezara",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,

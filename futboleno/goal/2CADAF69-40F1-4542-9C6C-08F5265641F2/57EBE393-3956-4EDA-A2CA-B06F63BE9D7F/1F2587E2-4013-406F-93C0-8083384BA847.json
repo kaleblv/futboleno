@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+              "name": "Roboto-Light",
               "size": 12
             }
           },
@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 5,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "SQUAD"
+    "string": "EQUIPO"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "1F2587E2-4013-406F-93C0-8083384BA847",
@@ -48,20 +48,20 @@
     "constrainProportions": false,
     "do_objectID": "7E47D60B-FE12-4EC0-BA15-C5AFD43CBAF5",
     "height": 16,
-    "width": 40,
-    "x": 174.6206896551726,
+    "width": 42,
+    "x": 186.6206896551726,
     "y": 217.9655172413793
   },
-  "glyphBounds": "{{0, 0}, {40, 16}}",
+  "glyphBounds": "{{1, 4}, {40, 11}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "SQUAD",
+  "name": "EQUIPO",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
@@ -83,7 +83,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+            "name": "Roboto-Light",
             "size": 12
           }
         },

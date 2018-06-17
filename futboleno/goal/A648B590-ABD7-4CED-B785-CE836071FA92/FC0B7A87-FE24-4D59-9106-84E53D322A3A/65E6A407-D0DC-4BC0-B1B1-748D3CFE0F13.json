@@ -28,11 +28,11 @@
             "minimumLineHeight": 47
           }
         },
-        "length": 97,
+        "length": 121,
         "location": 0
       }
     ],
-    "string": "Goals\nBall Possession\nYellow Cards\nRed Cards\nCorners Pro\nFouls\nPenalties\nOffsides\nShots on Target"
+    "string": "Goles\nPosesión del Balón\nTarjetas Amarillas\nTarjetas Rojas\nTiros de Esquina\nFaltas\nPenales\nFuera de Lugar\nShots on Target"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "65E6A407-D0DC-4BC0-B1B1-748D3CFE0F13",
@@ -51,20 +51,20 @@
     "constrainProportions": false,
     "do_objectID": "459B1974-DA9E-414F-8BDC-59A2C1FAAC18",
     "height": 423,
-    "width": 91,
-    "x": 124.6666666666667,
+    "width": 108,
+    "x": 116.1666666666667,
     "y": 20.33333333333348
   },
-  "glyphBounds": "{{0, 0}, {91, 423}}",
+  "glyphBounds": "{{1, 4}, {106, 389}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 1,
-  "name": "Goals",
+  "name": "Goles Posesión del B",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,

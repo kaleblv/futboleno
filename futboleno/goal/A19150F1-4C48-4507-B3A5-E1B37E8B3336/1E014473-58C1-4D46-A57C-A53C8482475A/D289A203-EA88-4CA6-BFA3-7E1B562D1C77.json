@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+              "name": "Roboto-Light",
               "size": 12
             }
           },
@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 9,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "Barcelona"
+    "string": "Pumas"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "D289A203-EA88-4CA6-BFA3-7E1B562D1C77",
@@ -48,20 +48,20 @@
     "constrainProportions": false,
     "do_objectID": "ED0C0595-D6F4-4579-84E4-375FECA13D85",
     "height": 16,
-    "width": 55,
+    "width": 38,
     "x": 55,
     "y": 263
   },
-  "glyphBounds": "{{0, 0}, {55, 16}}",
+  "glyphBounds": "{{1, 4}, {36, 10}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Barcelona",
+  "name": "Pumas",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
@@ -85,7 +85,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+            "name": "Roboto-Light",
             "size": 12
           }
         },

@@ -16,20 +16,21 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+              "name": "Roboto-Light",
               "size": 12
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
+            "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 7,
+        "length": 10,
         "location": 0
       }
     ],
-    "string": "LINE-UP"
+    "string": "ALINEACIÓN"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "3CA48926-BE39-453A-B665-23AD7196142C",
@@ -48,20 +49,20 @@
     "constrainProportions": false,
     "do_objectID": "8A7E0356-AEBA-4C3D-B206-C83D067019C6",
     "height": 16,
-    "width": 45,
-    "x": 158,
+    "width": 68,
+    "x": 146,
     "y": 194.9655172413793
   },
-  "glyphBounds": "{{0, 0}, {45, 16}}",
+  "glyphBounds": "{{0, 2}, {67, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "LINE-UP",
+  "name": "ALINEACIÓN",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
@@ -83,12 +84,13 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+            "name": "Roboto-Light",
             "size": 12
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
+          "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0
         }
       },

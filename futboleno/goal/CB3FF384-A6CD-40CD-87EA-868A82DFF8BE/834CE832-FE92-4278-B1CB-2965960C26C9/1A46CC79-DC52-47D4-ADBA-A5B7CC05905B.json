@@ -28,11 +28,11 @@
             "minimumLineHeight": 40
           }
         },
-        "length": 83,
+        "length": 49,
         "location": 0
       }
     ],
-    "string": "O. Lyonnais\nO. Marseille\nParis SG\nAs St-Etiennes\nMonaco\nMontpellier HSC\nG. Bordeaux"
+    "string": "Chivas\nAmérica\nSantos\nPumas\nToluca\nQueretaro\nLeon"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "1A46CC79-DC52-47D4-ADBA-A5B7CC05905B",
@@ -51,20 +51,20 @@
     "constrainProportions": false,
     "do_objectID": "539C4116-43DA-497C-95A4-BFEBA69F6516",
     "height": 280,
-    "width": 93,
+    "width": 57,
     "x": 73,
     "y": 118
   },
-  "glyphBounds": "{{0, 0}, {93, 280}}",
+  "glyphBounds": "{{0, 4}, {56, 251}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 1,
-  "name": "O. Lyonnais",
+  "name": "Chivas América Santo",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,

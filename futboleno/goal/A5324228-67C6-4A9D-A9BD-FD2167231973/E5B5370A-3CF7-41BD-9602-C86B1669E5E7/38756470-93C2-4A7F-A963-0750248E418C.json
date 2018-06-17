@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+              "name": "Roboto-Light",
               "size": 12
             }
           },
@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 4,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "NEWS"
+    "string": "NOTICIAS"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "38756470-93C2-4A7F-A963-0750248E418C",
@@ -48,20 +48,20 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 34,
-    "x": 0.4482758620689538,
+    "width": 53,
+    "x": 0.9482758620689538,
     "y": 193.9655172413791
   },
-  "glyphBounds": "{{0, 0}, {34, 16}}",
+  "glyphBounds": "{{1, 4}, {51, 10}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "NEWS",
+  "name": "NOTICIAS",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
@@ -88,7 +88,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+            "name": "Roboto-Light",
             "size": 12
           }
         },

@@ -18,7 +18,7 @@
     "x": 0,
     "y": 0
   },
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -32,10 +32,6 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
-    {
-      "class": "artboard",
-      "id": "C550DC63-A6A2-4545-89BD-854457C0C350"
-    },
     {
       "class": "artboard",
       "id": "A5324228-67C6-4A9D-A9BD-FD2167231973"

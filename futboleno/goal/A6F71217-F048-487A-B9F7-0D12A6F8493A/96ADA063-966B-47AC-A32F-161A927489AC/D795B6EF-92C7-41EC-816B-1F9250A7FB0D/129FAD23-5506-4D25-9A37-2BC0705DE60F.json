@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+              "name": "Roboto-Light",
               "size": 11
             }
           },
@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 5,
+        "length": 3,
         "location": 0
       }
     ],
-    "string": "today"
+    "string": "Hoy"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "129FAD23-5506-4D25-9A37-2BC0705DE60F",
@@ -48,20 +48,20 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 15,
-    "width": 28,
+    "width": 20,
     "x": 19.66666666666666,
     "y": 212
   },
-  "glyphBounds": "{{0, 0}, {28, 15}}",
+  "glyphBounds": "{{0, 4}, {20, 11}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "today",
+  "name": "Hoy",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
@@ -85,7 +85,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+            "name": "Roboto-Light",
             "size": 11
           }
         },

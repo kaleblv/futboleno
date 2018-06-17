@@ -16,12 +16,13 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+              "name": "Roboto-Light",
               "size": 12
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
+            "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0
           }
         },
@@ -29,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "FIXTURES"
+    "string": "PARTIDOS"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "75A3466E-B539-4C54-B3F5-DFB8B5626F14",
@@ -48,20 +49,20 @@
     "constrainProportions": false,
     "do_objectID": "05A08772-A3EF-4F9B-9AEB-8268346D5FF9",
     "height": 16,
-    "width": 56,
-    "x": 166.6206896551726,
+    "width": 55,
+    "x": 176.6206896551726,
     "y": 217.9655172413793
   },
-  "glyphBounds": "{{0, 0}, {56, 16}}",
+  "glyphBounds": "{{1, 4}, {54, 10}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "FIXTURES",
+  "name": "PARTIDOS",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
@@ -83,12 +84,13 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+            "name": "Roboto-Light",
             "size": 12
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
+          "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0
         }
       },

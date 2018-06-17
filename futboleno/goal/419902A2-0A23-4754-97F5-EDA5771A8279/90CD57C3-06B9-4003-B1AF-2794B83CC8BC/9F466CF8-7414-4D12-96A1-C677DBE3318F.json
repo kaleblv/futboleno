@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "Ligue 1"
+    "string": "Liga MX"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "9F466CF8-7414-4D12-96A1-C677DBE3318F",
@@ -49,20 +49,20 @@
     "constrainProportions": false,
     "do_objectID": "2C6D4780-6917-47BE-9FED-0F82EEE4B5AD",
     "height": 13,
-    "width": 32,
-    "x": 164.5,
+    "width": 36,
+    "x": 162.5,
     "y": 9
   },
-  "glyphBounds": "{{0, 0}, {32, 13}}",
+  "glyphBounds": "{{0, 2}, {36, 11}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Ligue 1",
+  "name": "Liga MX",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,

@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+              "name": "Roboto-Light",
               "size": 12
             }
           },
@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 8,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "OVERVIEW"
+    "string": "RESUMEN"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "EC7792FB-C6E5-46F7-B3AC-C279C00B1978",
@@ -49,20 +49,20 @@
     "constrainProportions": false,
     "do_objectID": "976E7AAE-2C9E-46F9-99FD-F97EA80BC0E4",
     "height": 16,
-    "width": 60,
-    "x": 149.448275862069,
+    "width": 56,
+    "x": 151.448275862069,
     "y": 194.9655172413793
   },
-  "glyphBounds": "{{0, 0}, {60, 16}}",
+  "glyphBounds": "{{1, 4}, {54, 10}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "OVERVIEW",
+  "name": "RESUMEN",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
@@ -84,7 +84,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+            "name": "Roboto-Light",
             "size": 12
           }
         },

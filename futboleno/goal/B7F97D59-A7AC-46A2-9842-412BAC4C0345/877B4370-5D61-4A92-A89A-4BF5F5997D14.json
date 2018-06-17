@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+              "name": "Roboto-Light",
               "size": 13
             }
           },
@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "Today Matches"
+    "string": "Juegos de hoy"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "877B4370-5D61-4A92-A89A-4BF5F5997D14",
@@ -49,20 +49,20 @@
     "constrainProportions": false,
     "do_objectID": "921EE219-C645-432A-BE8A-B6E7E36633E3",
     "height": 18,
-    "width": 91,
+    "width": 83,
     "x": 70,
     "y": 216
   },
-  "glyphBounds": "{{0, 0}, {91, 18}}",
+  "glyphBounds": "{{0, 4}, {83, 13}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Today Matches",
+  "name": "Juegos de hoy",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
@@ -84,7 +84,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+            "name": "Roboto-Light",
             "size": 13
           }
         },

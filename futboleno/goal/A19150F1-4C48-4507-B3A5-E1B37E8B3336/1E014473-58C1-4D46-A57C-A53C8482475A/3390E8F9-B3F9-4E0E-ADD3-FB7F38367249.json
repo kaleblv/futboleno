@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+              "name": "Roboto-Light",
               "size": 20
             }
           },
@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 26,
+        "length": 41,
         "location": 0
       }
     ],
-    "string": "Neymar loving every minute"
+    "string": "Pumas sorprende con bajas\ny transferibles"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "3390E8F9-B3F9-4E0E-ADD3-FB7F38367249",
@@ -47,21 +47,21 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "71880CCF-9178-4BD2-8286-D673AF92987A",
-    "height": 36,
-    "width": 289,
-    "x": 18.33333333333337,
-    "y": 119
+    "height": 52,
+    "width": 245,
+    "x": 18,
+    "y": 108
   },
-  "glyphBounds": "{{0, 0}, {289, 36}}",
+  "glyphBounds": "{{0, 6}, {244, 46}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 1,
-  "name": "Neymar loving every ",
+  "name": "Pumas sorprende con",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
@@ -85,7 +85,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+            "name": "Roboto-Light",
             "size": 20
           }
         },

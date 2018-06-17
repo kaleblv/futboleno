@@ -15,7 +15,7 @@
     "constrainProportions": false,
     "height": 251,
     "width": 360,
-    "x": 15,
+    "x": 25,
     "y": 0
   },
   "horizontalSpacing": 0,
@@ -27,6 +27,18 @@
   "name": "header_club",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "94CDD97C-C8E8-4838-A91A-487DA6624243",
+      "overrideName": "22A62BE3-3EB0-4476-8409-00F19ED1087F_stringValue",
+      "value": "Santos"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "97DC1A9B-4068-4D87-9D2D-D4CC789D325B",
+      "overrideName": "33DC2AAD-1A03-45CA-8F2E-08249E9A9ABD_stringValue",
+      "value": "México"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

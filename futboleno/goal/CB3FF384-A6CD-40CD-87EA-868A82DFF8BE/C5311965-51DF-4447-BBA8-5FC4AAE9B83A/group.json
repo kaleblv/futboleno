@@ -14,7 +14,7 @@
     "_class": "rect",
     "constrainProportions": true,
     "height": 251,
-    "width": 371,
+    "width": 372,
     "x": 0,
     "y": 0
   },
@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",

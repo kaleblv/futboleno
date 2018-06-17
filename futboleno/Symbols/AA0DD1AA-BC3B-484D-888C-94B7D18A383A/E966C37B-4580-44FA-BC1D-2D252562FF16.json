@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "Bayern FC"
+    "string": "Tiburones"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "E966C37B-4580-44FA-BC1D-2D252562FF16",
@@ -48,18 +48,18 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 13,
-    "width": 46,
-    "x": 267.5539696699375,
+    "width": 44,
+    "x": 268.5539696699375,
     "y": 155.3309545049065
   },
-  "glyphBounds": "{{0, 0}, {46, 13}}",
+  "glyphBounds": "{{0, 2}, {44, 9}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Bayern FC",
+  "name": "Tiburones",
   "nameIsFixed": false,
   "originalObjectID": "E966C37B-4580-44FA-BC1D-2D252562FF16",
   "resizingConstraint": 47,

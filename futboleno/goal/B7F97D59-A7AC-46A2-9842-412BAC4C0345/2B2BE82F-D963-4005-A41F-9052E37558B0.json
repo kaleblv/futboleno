@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+              "name": "Roboto-Light",
               "size": 13
             }
           },
@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 9,
+        "length": 17,
         "location": 0
       }
     ],
-    "string": "All Teams"
+    "string": "Todos los equipos"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "2B2BE82F-D963-4005-A41F-9052E37558B0",
@@ -49,20 +49,20 @@
     "constrainProportions": false,
     "do_objectID": "F9CCAAED-8092-43E3-B813-69A582517FAE",
     "height": 18,
-    "width": 58,
+    "width": 105,
     "x": 70,
     "y": 504
   },
-  "glyphBounds": "{{0, 0}, {58, 18}}",
+  "glyphBounds": "{{0, 4}, {104, 13}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "All Teams",
+  "name": "Todos los equipos",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
@@ -84,7 +84,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+            "name": "Roboto-Light",
             "size": 13
           }
         },

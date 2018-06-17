@@ -28,11 +28,11 @@
             "minimumLineHeight": 51
           }
         },
-        "length": 55,
+        "length": 61,
         "location": 0
       }
     ],
-    "string": "Salvatore Sirigu\nNicolas Douchez\nMike Maignan\nMory Diaw"
+    "string": "Jonathan Orozco\nCarlos Acevedo\nJoel García\nJosé Javier Abella"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "F492D7FE-6D78-4C05-B2FE-A7F6AC3ADD04",
@@ -51,20 +51,20 @@
     "constrainProportions": false,
     "do_objectID": "F8A7D033-C49A-496D-ADC7-CD5FA5E55C7E",
     "height": 204,
-    "width": 96,
+    "width": 104,
     "x": 72,
     "y": 134
   },
-  "glyphBounds": "{{0, 0}, {96, 204}}",
+  "glyphBounds": "{{0, 4}, {103, 164}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 1,
-  "name": "Salvatore Sirigu",
+  "name": "Jonathan Orozco Carl",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,

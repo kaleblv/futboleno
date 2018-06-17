@@ -15,7 +15,7 @@
     "constrainProportions": true,
     "do_objectID": "77BB5204-BE9C-4A55-953E-4F73BBFDE578",
     "height": 297,
-    "width": 341,
+    "width": 340,
     "x": 10,
     "y": 90
   },
@@ -24,7 +24,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -61,6 +61,10 @@
     {
       "class": "shapeGroup",
       "id": "634CA845-8133-4601-8962-11A7C2E370F4"
+    },
+    {
+      "class": "bitmap",
+      "id": "77F6632D-7DC2-401B-A565-E24CFF1C5620"
     },
     {
       "class": "text",

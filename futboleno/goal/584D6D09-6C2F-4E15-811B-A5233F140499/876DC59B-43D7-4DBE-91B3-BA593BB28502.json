@@ -28,11 +28,11 @@
             "minimumLineHeight": 46
           }
         },
-        "length": 73,
+        "length": 64,
         "location": 0
       }
     ],
-    "string": "Paris SG\nManchester United\nChelsea\nBorussia Dortmund\nReal Madrid\nAdd Team"
+    "string": "Santos\nAmérica\nClub FC Barcelona\nToluca\nReal Madrid\nAgregar Club"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "876DC59B-43D7-4DBE-91B3-BA593BB28502",
@@ -51,20 +51,20 @@
     "constrainProportions": false,
     "do_objectID": "FC025BD2-472D-4EFD-A146-6BCB2EC40843",
     "height": 276,
-    "width": 129,
+    "width": 121,
     "x": 70,
     "y": 241
   },
-  "glyphBounds": "{{0, 0}, {129, 276}}",
+  "glyphBounds": "{{0, 5}, {120, 245}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 1,
-  "name": "Paris SG",
+  "name": "Santos América Club",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,

@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+              "name": "Roboto-Light",
               "size": 12
             }
           },
@@ -29,7 +29,7 @@
         "location": 0
       }
     ],
-    "string": "GALLERY"
+    "string": "GALERÍA"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "63270A97-0332-4A15-9A22-870700494519",
@@ -48,20 +48,20 @@
     "constrainProportions": false,
     "do_objectID": "B793A8DC-9D6F-4FB1-A416-48FC064B4C62",
     "height": 16,
-    "width": 51,
+    "width": 48,
     "x": 155,
     "y": 193.9655172413791
   },
-  "glyphBounds": "{{0, 0}, {51, 16}}",
+  "glyphBounds": "{{0, 2}, {47, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "GALLERY",
+  "name": "GALERÍA",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
@@ -83,7 +83,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+            "name": "Roboto-Light",
             "size": 12
           }
         },

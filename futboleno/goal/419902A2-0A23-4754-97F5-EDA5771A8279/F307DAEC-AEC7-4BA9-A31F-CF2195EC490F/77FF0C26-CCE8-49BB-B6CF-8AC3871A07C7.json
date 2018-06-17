@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 15,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "Coupe de France"
+    "string": "Liga MX"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "77FF0C26-CCE8-49BB-B6CF-8AC3871A07C7",
@@ -49,20 +49,20 @@
     "constrainProportions": false,
     "do_objectID": "07A77744-8037-4400-B531-237BC22E58C6",
     "height": 13,
-    "width": 75,
-    "x": 143,
+    "width": 36,
+    "x": 162.5,
     "y": 9
   },
-  "glyphBounds": "{{0, 0}, {75, 13}}",
+  "glyphBounds": "{{0, 2}, {36, 11}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Coupe de France",
+  "name": "Liga MX",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,

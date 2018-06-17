@@ -28,11 +28,11 @@
             "minimumLineHeight": 40
           }
         },
-        "length": 150,
+        "length": 174,
         "location": 0
       }
     ],
-    "string": "Salvatore Sirigu\rMaxwell\rThiago Silva\rMarquinhos\rG. Van der Wiel\rDavid Luiz\rVerratti\rBlaise Matuidi\rEzequiel Lavezzi\rZlatan Ibrahimovic\rEdinson Cavani"
+    "string": "Jonathan Orozco\rJosé Javier Abella\rGerardo Alcoba\rDiego de Buen\rJulio César Furch\rEdwuin Cetre\rJonathan Rodríguez\rNéstor Araujo\rBrian Lozano\rZlatan Ibrahimovic\rEdinson Cavani"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "E80B13DD-2EA0-4EC1-B15E-BC880F04DE9D",
@@ -51,20 +51,20 @@
     "constrainProportions": false,
     "do_objectID": "451A2594-3DCF-49DB-9843-F1E7CF3B4362",
     "height": 440,
-    "width": 107,
+    "width": 115,
     "x": 49,
     "y": 73.33333333333326
   },
-  "glyphBounds": "{{0, 0}, {107, 440}}",
+  "glyphBounds": "{{0, 4}, {115, 411}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 1,
-  "name": "Salvatore Sirigu\rMax",
+  "name": "Jonathan Orozco José",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,

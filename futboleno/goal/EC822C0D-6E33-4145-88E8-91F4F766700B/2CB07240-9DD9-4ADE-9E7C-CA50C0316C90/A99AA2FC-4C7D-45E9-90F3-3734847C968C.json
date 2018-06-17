@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 8,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "HOME WIN"
+    "string": "CASA GANA"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "A99AA2FC-4C7D-45E9-90F3-3734847C968C",
@@ -49,20 +49,20 @@
     "constrainProportions": false,
     "do_objectID": "F7891F41-EFC3-480F-82CD-0F4441180FEF",
     "height": 13,
-    "width": 50,
-    "x": 38.16666666666666,
+    "width": 54,
+    "x": 36.16666666666666,
     "y": 91.33333333333326
   },
-  "glyphBounds": "{{0, 0}, {50, 13}}",
+  "glyphBounds": "{{0, 2}, {54, 9}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "HOME WIN",
+  "name": "CASA GANA",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,

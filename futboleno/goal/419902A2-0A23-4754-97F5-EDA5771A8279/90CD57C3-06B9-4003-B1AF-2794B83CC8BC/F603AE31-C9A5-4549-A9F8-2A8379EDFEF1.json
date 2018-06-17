@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 13,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "As St-Etienne"
+    "string": "Necaxa"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "F603AE31-C9A5-4549-A9F8-2A8379EDFEF1",
@@ -49,20 +49,20 @@
     "constrainProportions": false,
     "do_objectID": "BDA8761B-1EB8-4BD4-9A36-A7CC1007305D",
     "height": 18,
-    "width": 77,
+    "width": 43,
     "x": 20,
     "y": 49
   },
-  "glyphBounds": "{{0, 0}, {77, 18}}",
+  "glyphBounds": "{{1, 4}, {42, 11}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "As St-Etienne",
+  "name": "Necaxa",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,

@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 5,
+        "length": 10,
         "location": 0
       }
     ],
-    "string": "Coach"
+    "string": "Entrenador"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "168350D5-C977-4AA4-8128-392918B5EF0C",
@@ -48,20 +48,20 @@
     "constrainProportions": false,
     "do_objectID": "5B657BE0-782D-4681-AD6F-3C1B70B307D8",
     "height": 15,
-    "width": 31,
+    "width": 54,
     "x": 16.33333333333326,
     "y": 7.333333333333258
   },
-  "glyphBounds": "{{0, 0}, {31, 15}}",
+  "glyphBounds": "{{0, 3}, {53, 10}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Coach",
+  "name": "Entrenador",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
