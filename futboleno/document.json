@@ -1,0 +1,128 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1764705882352941,
+        "green": 0.1450980392156863,
+        "red": 0.0823529411764706
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.196078431372549,
+        "green": 0.1647058823529412,
+        "red": 0.1019607843137255
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3098039215686275,
+        "green": 0.2784313725490196,
+        "red": 0.2549019607843137
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.6079225540161133,
+        "green": 0.6078033447265625,
+        "red": 0.6078922152519226
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0,
+        "green": 0.7607843137254902,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.5764705882352941,
+        "green": 0.5176470588235293,
+        "red": 0.3960784313725491
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.6901960784313725,
+        "green": 0.6313725490196078,
+        "red": 0.5058823529411764
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.7529411764705882,
+        "green": 0.6862745098039215,
+        "red": 0.6313725490196078
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9686274509803922,
+        "green": 0.9607843137254902,
+        "red": 0.9450980392156862
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2941176470588237,
+        "green": 0.3215686274509804,
+        "red": 0.9450980392156862
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.6745098039215687,
+        "green": 0.2352941176470588,
+        "red": 0.5098039215686275
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.788235294117647,
+        "green": 0.3372549019607843,
+        "red": 0.623529411764706
+      }
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "EB6FB8B8-EFF3-4DB0-AB45-9C44A1787323",
+  "foreignLayerStyles": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "50.2",
+    "build": 55047,
+    "version": 103
+  },
+  "pages": [
+    "goal",
+    "Symbols"
+  ],
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}
