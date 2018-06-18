@@ -1,0 +1,141 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9607843137254902,
+    "green": 0.9607843137254902,
+    "red": 0.9607843137254902
+  },
+  "do_objectID": "CCC07FD0-4586-4B71-A6DA-674738B9A369",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "49557318-6FF8-4DD4-9CB8-4CB007E30F52",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FD9555C4-B0DA-41FE-9E6B-35CA1CA77A0C",
+    "height": 640,
+    "width": 360,
+    "x": 982,
+    "y": -435
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F36053F3-50E3-45F2-873C-B19E2D3C029C",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B05C1C44-D1A6-4FEC-ADD9-A4D4119BEF49"
+    },
+    {
+      "class": "group",
+      "id": "6579AB32-D47C-4701-9C87-533544E74653"
+    },
+    {
+      "class": "group",
+      "id": "19D868D5-122D-43BA-8C37-80F125CD80E9"
+    },
+    {
+      "class": "group",
+      "id": "3C58B522-E962-4D41-AA15-7C156FBFC7B3"
+    },
+    {
+      "class": "group",
+      "id": "35582C19-C02D-4F09-AD6C-87218859C351"
+    },
+    {
+      "class": "group",
+      "id": "0E290114-340D-43D2-AD9F-1EF11E13B1E2"
+    },
+    {
+      "class": "group",
+      "id": "9311C8E2-8498-45CC-B1A3-195B5ED76E0C"
+    }
+  ],
+  "name": "news",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AC5C4E83-6860-46ED-8E35-C7B1AFCC1DD2",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "do_objectID": "D9109CF9-30ED-4DF6-97EF-7C76DCCE5436",
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "99A653F0-A739-4FAA-87F2-5D54CEFD69C5",
+    "guides": [
+      90,
+      523
+    ]
+  }
+}

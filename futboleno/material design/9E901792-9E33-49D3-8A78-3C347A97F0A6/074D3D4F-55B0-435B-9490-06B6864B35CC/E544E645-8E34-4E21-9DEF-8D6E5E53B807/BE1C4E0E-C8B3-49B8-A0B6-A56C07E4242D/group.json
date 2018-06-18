@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "BE1C4E0E-C8B3-49B8-A0B6-A56C07E4242D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "10E0CED4-B782-4625-B2C2-4AA570333EFE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6871F6F2-849C-4E0A-A472-840809A95ED3",
+    "height": 56,
+    "width": 56,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EA540DFA-1AC0-4137-9249-8B0A11163798"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "48FBBDCC-E9B3-4A8C-AD47-B6B57CD0ABBF"
+    }
+  ],
+  "name": "ball-icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "B4AF2595-B00D-4B7D-AB5D-84B8A2E03B14",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 12,
+      "type": 0
+    },
+    "do_objectID": "D796D658-675E-4A4E-8BC6-27B6E9AFC9F3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

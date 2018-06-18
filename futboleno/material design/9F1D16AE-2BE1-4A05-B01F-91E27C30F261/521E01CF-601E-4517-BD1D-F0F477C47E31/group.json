@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "do_objectID": "521E01CF-601E-4517-BD1D-F0F477C47E31",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E9238142-E8DE-43A9-89A9-0D10C65600BF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "EADECAED-19A4-4793-8E5D-F421C53D004C",
+    "height": 468,
+    "width": 351,
+    "x": 5,
+    "y": 232
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9CFD0F3C-C1D7-4DD1-B786-AEDF2584497C"
+    },
+    {
+      "class": "group",
+      "id": "66AEF8BE-05D7-4DD5-B697-03D0E1C552BC"
+    },
+    {
+      "class": "group",
+      "id": "B1288CFF-C90C-4C3B-A423-4F13F0530B52"
+    },
+    {
+      "class": "group",
+      "id": "4FE66BC2-BB8F-4B69-8F7E-03E63F452D7F"
+    },
+    {
+      "class": "group",
+      "id": "8AF7FD1B-E000-4E80-986A-6D11D1980A4D"
+    },
+    {
+      "class": "group",
+      "id": "B1E5DE65-C8CA-4991-BC3F-E7DAAA88A50E"
+    },
+    {
+      "class": "group",
+      "id": "FCD463CC-7F16-4647-ACE5-FECA33EBEF7D"
+    },
+    {
+      "class": "group",
+      "id": "F20E00D0-FB86-4FEE-B80B-403FACBFF30E"
+    },
+    {
+      "class": "group",
+      "id": "A31D4725-5616-4C12-ABF7-7B78774F3E78"
+    },
+    {
+      "class": "group",
+      "id": "E7006358-4D77-45E3-A958-A4FA512FA79D"
+    },
+    {
+      "class": "group",
+      "id": "E0C7AF55-B0DA-4BE1-A7A4-953106C5D9CD"
+    },
+    {
+      "class": "group",
+      "id": "47B375A3-EE46-4490-A33D-B006DFDEFF2F"
+    }
+  ],
+  "name": "cards",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E1BC2422-6F51-48A7-A7E7-1525F05AF2B6",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

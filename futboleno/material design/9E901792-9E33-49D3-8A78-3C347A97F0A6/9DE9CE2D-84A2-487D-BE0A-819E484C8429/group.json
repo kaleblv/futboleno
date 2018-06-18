@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "9DE9CE2D-84A2-487D-BE0A-819E484C8429",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "44996349-F613-4735-84AC-124769E5C144",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "222BB666-75CB-412C-8A10-BB3BAB948A0C",
+    "height": 640,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6D87952B-42A9-408E-B171-5E7C07CBDD69"
+    },
+    {
+      "class": "bitmap",
+      "id": "F9A97F98-9D27-41E9-9BA9-27A1F98FB17C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F2AB021F-E182-4300-89AA-4B94E055273F"
+    }
+  ],
+  "name": "login-bg",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "901112E7-1943-4087-809B-B85A64D84BB3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

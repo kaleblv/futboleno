@@ -1,0 +1,70 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "75F29A4E-0921-46C8-AF68-2BCEA8745896",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "11FD80A8-A12B-49E1-B369-2AA917E4D272",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0B49A1B0-4247-4412-96E1-014DD5B74B73",
+    "height": 114.0151515151515,
+    "width": 114.0151515151515,
+    "x": 0.9848484848484986,
+    "y": 0.9772727272729753
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "05232C98-1474-4886-BD77-1D3015F2D57E"
+    }
+  ],
+  "name": "card",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "60F7D4EC-B136-4A86-8714-8FA55DB2C6EA",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.03921568627450975,
+          "green": 0.8,
+          "red": 0.6235294117647059
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "A41A5B3E-1B0B-4FEC-B442-F5963CDD786A",
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

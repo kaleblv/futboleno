@@ -117,7 +117,9 @@
     "version": 103
   },
   "pages": [
-    "goal",
+    "original",
+    "material design",
+    "branding",
     "Symbols"
   ],
   "userInfo": {

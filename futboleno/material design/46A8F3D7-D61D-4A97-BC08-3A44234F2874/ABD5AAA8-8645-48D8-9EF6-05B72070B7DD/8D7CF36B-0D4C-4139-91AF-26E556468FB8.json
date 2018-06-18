@@ -1,0 +1,49 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "8D7CF36B-0D4C-4139-91AF-26E556468FB8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ACEB33B3-2119-4352-9793-D1BDB3C63A1D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "EA9FD937-81FB-4E14-BCEB-D910283354E2",
+    "height": 38,
+    "width": 38,
+    "x": 42,
+    "y": 207
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/20a3bbfe761811d3b0ecd00d5816abed9e637d92.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "santos",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ED9B8C2E-92D0-432E-B2BC-BA9631EAF08A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

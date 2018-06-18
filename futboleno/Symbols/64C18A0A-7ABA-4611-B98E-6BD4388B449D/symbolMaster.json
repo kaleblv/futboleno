@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 5,
+  "changeIdentifier": 1417,
   "do_objectID": "64C18A0A-7ABA-4611-B98E-6BD4388B449D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -42,15 +42,19 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "5B1541C5-CCD3-49FA-9D39-0FB377026E19"
     },
     {
+      "class": "bitmap",
+      "id": "DA315BD9-71A5-4D2F-821C-DB40D3472CEC"
+    },
+    {
       "class": "shapeGroup",
-      "id": "CA710E23-BC79-4782-89D1-E8A87222166E"
+      "id": "E7727BA8-4ECA-49A4-B8C5-96C49F0A0FE3"
     },
     {
       "class": "text",
@@ -61,16 +65,36 @@
       "id": "E2A1A591-1F04-4A55-BD4A-7198B0DD67BB"
     },
     {
+      "class": "bitmap",
+      "id": "B6C51A0C-B088-44B1-A5B7-8668A793CBC6"
+    },
+    {
       "class": "shapeGroup",
       "id": "226E119D-1542-4FBB-9A38-40F436E782E8"
+    },
+    {
+      "class": "bitmap",
+      "id": "65C2C2C8-E952-494A-AD48-E9888ACB5983"
     },
     {
       "class": "shapeGroup",
       "id": "688C2C37-5C0B-4D5F-B74F-D74DA514F38C"
     },
     {
+      "class": "bitmap",
+      "id": "131A7EFF-0F1C-4C06-92C1-940030E3DEF8"
+    },
+    {
       "class": "shapeGroup",
       "id": "1B6DC7CD-3BE0-4519-9C69-60E725ADDDD4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1EDBFCA2-FE2A-43CD-A88E-FFEA1ECF1C1D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "691EE7F3-ACF5-4F01-85E3-52FCEFB6DC83"
     }
   ],
   "name": "header_player",

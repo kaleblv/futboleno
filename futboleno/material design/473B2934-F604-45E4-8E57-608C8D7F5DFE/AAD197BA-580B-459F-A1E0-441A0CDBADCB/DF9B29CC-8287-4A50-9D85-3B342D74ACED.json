@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "DF9B29CC-8287-4A50-9D85-3B342D74ACED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B6564B52-8FEC-4B9B-A15E-F9A64C8196A4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4219CEA0-9AC9-418C-9526-398E7192FB8D",
+    "height": 24,
+    "width": 133,
+    "x": 227,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "status bar contents",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B3AA19A5-5C6F-4B10-885D-DCD3837E4059",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "080C0EF9-47BD-4900-BB91-42C80173D424",
+  "verticalSpacing": 0
+}

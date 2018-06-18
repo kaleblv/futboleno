@@ -1,0 +1,132 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "0D615697-0023-4C05-B610-CD6F8F8F5061",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 13308,
+  "do_objectID": "976D7B41-5F0C-4500-A81C-67E1E37EF4F2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8AD4C722-585E-4A3D-BFFD-8A6ED813E7D7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EEB37B1F-EF6A-45DD-B298-9BC59957FCF0",
+    "height": 376,
+    "width": 344,
+    "x": 18318,
+    "y": 0
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 4,
+    "isEnabled": true,
+    "thickGridTimes": 40
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4A2B3984-F073-4BCF-B387-8535B9D23649",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "AAC22704-A533-4FC0-AA0C-6680B830EE2E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6D91FEFE-07C5-4BAA-A642-DFBD52BF4167"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7EE112D3-C273-4139-860B-624A2B441730"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "08F3B1A8-EBB9-43EE-8C22-3D90077C0CBF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1F6E5B51-1049-4B26-AC48-F831B5335E5F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FAED8628-52EB-4BDA-853F-2872AB0FB7A0"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 48,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": false,
+    "gutterHeight": 4,
+    "gutterWidth": 2904,
+    "guttersOutside": false,
+    "horizontalOffset": -123,
+    "isEnabled": false,
+    "numberOfColumns": 2,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 3000
+  },
+  "name": "Cards / Image Top / Outlined / Avatar Left / Resting",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9AC95309-297A-423A-9D5C-0588345D65F1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "60C64885-5BD1-45EC-BD1A-0B454B98B068",
+  "userInfo": {
+    "com.google.ux.material.spec_tools": {
+      "cornerSizesDp": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "theme": "{\"lastUpdatedUtc\":\"2018-06-17 18:40:12\",\"palettes\":{\"PRIMARY\":{\"colors\":[{\"red\":0.9579586956829916,\"green\":0.9863265621077518,\"blue\":0.9005102052397324,\"alpha\":1},{\"red\":0.8969732215900231,\"green\":0.9609433622516176,\"blue\":0.7507564149815511,\"alpha\":1},{\"red\":0.8279447267869474,\"green\":0.9390455407475187,\"blue\":0.5854901689264113,\"alpha\":1},{\"red\":0.7602793409776408,\"green\":0.9128958664625458,\"blue\":0.41320026238374064,\"alpha\":1},{\"red\":0.7091186156135436,\"green\":0.8906198150365284,\"blue\":0.2719513387111658,\"alpha\":1},{\"red\":0.6631079607732999,\"green\":0.8712944778691616,\"blue\":0.08781886758115873,\"alpha\":1},{\"red\":0.6235294117647059,\"green\":0.8,\"blue\":0.0392156862745098,\"alpha\":1},{\"red\":0.568956676933308,\"green\":0.7127412369940491,\"blue\":0,\"alpha\":1},{\"red\":0.51523169542317,\"green\":0.6210321672380371,\"blue\":0,\"alpha\":1},{\"red\":0.4275129483361549,\"green\":0.4695977132500279,\"blue\":0,\"alpha\":1}],\"mainColorIndex\":6,\"inkColor\":{\"red\":0,\"green\":0,\"blue\":0,\"alpha\":1}},\"SECONDARY\":{\"colors\":[{\"red\":0.9520007516518677,\"green\":0.987586184505746,\"blue\":0.8851667430796559,\"alpha\":1},{\"red\":0.9217205687132088,\"green\":0.9571302219007213,\"blue\":0.8553215017038037,\"alpha\":1},{\"red\":0.8818660894736262,\"green\":0.9170388305440322,\"blue\":0.8160568572961198,\"alpha\":1},{\"red\":0.8161066585931148,\"green\":0.8508737112980668,\"blue\":0.7513177934248946,\"alpha\":1},{\"red\":0.6745261808119758,\"green\":0.7083482968755388,\"blue\":0.6121718081162155,\"alpha\":1},{\"red\":0.5484937670381743,\"green\":0.581375024674086,\"blue\":0.48866244379722185,\"alpha\":1},{\"red\":0.3924391358360689,\"green\":0.4239859039327537,\"blue\":0.33642362295264866,\"alpha\":1},{\"red\":0.3169261893709484,\"green\":0.34774309607537945,\"blue\":0.26316763764061973,\"alpha\":1},{\"red\":0.1985317740459533,\"green\":0.22807851956412234,\"blue\":0.14919276552046715,\"alpha\":1},{\"red\":0.0784313725490196,\"green\":0.10196078431372549,\"blue\":0.00392156862745098,\"alpha\":1}],\"mainColorIndex\":9},\"SURFACE\":{\"colors\":[{\"red\":1,\"green\":1,\"blue\":1,\"alpha\":1},{\"red\":0.9807089859888657,\"green\":0.9807090923474681,\"blue\":0.9807090166169335,\"alpha\":1},{\"red\":0.9614896126428832,\"green\":0.9614897160775632,\"blue\":0.9614896423314422,\"alpha\":1},{\"red\":0.9423426493624547,\"green\":0.942342746714893,\"blue\":0.9423426768771613,\"alpha\":1},{\"red\":0.8692227753206838,\"green\":0.8692228576649179,\"blue\":0.8692227977439545,\"alpha\":1},{\"red\":0.762033684573245,\"green\":0.7620337541261238,\"blue\":0.7620337031299386,\"alpha\":1},{\"red\":0.5902992747236278,\"green\":0.5902993277528529,\"blue\":0.5902992886361145,\"alpha\":1},{\"red\":0.504871739011006,\"green\":0.5048717839890382,\"blue\":0.504871750679026,\"alpha\":1},{\"red\":0.37657369588808237,\"green\":0.3765737282854163,\"blue\":0.37657370399423673,\"alpha\":1},{\"red\":0.2366709262652505,\"green\":0.23667094522274518,\"blue\":0.2366709305962576,\"alpha\":1}],\"mainColorIndex\":0}},\"cornerType\":\"ROUNDED\",\"cornerSizesDp\":[3,3,3,3],\"textStyles\":{\"HEADLINE_1\":{\"font\":{\"fontFamilyName\":\"Adelle Condensed\",\"fontName\":\"Regular\",\"traits\":64,\"weight\":5},\"metrics\":{\"fontSize\":96.05823863636363}},\"HEADLINE_2\":{\"font\":{\"fontFamilyName\":\"Adelle Condensed\",\"fontName\":\"Regular\",\"traits\":64,\"weight\":5},\"metrics\":{\"fontSize\":60.036399147727266}},\"HEADLINE_3\":{\"font\":{\"fontFamilyName\":\"Adelle Condensed\",\"fontName\":\"Regular\",\"traits\":64,\"weight\":5},\"metrics\":{\"fontSize\":48.02911931818181}},\"HEADLINE_4\":{\"font\":{\"fontFamilyName\":\"Adelle Condensed\",\"fontName\":\"Regular\",\"traits\":64,\"weight\":5},\"metrics\":{\"fontSize\":34.02062618371212}},\"HEADLINE_5\":{\"font\":{\"fontFamilyName\":\"Adelle Condensed\",\"fontName\":\"Regular\",\"traits\":64,\"weight\":5},\"metrics\":{\"fontSize\":24.014559659090907}},\"HEADLINE_6\":{\"font\":{\"fontFamilyName\":\"Adelle Condensed\",\"fontName\":\"Regular\",\"traits\":64,\"weight\":5},\"metrics\":{\"fontSize\":20.012133049242422}},\"SUBTITLE_1\":{\"font\":{\"fontFamilyName\":\"Acumin Pro\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":16.672830374753453}},\"SUBTITLE_2\":{\"font\":{\"fontFamilyName\":\"Acumin Pro\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":14.58872657790927}},\"BODY_1\":{\"font\":{\"fontFamilyName\":\"Acumin Pro\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":16.672830374753453}},\"BODY_2\":{\"font\":{\"fontFamilyName\":\"Acumin Pro\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":14.58872657790927}},\"CAPTION\":{\"font\":{\"fontFamilyName\":\"Acumin Pro\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":12.50462278106509}},\"BUTTON\":{\"font\":{\"fontFamilyName\":\"Acumin Pro\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":14.58872657790927}},\"OVERLINE\":{\"font\":{\"fontFamilyName\":\"Acumin Pro\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":12.50462278106509}}},\"selectedFontFamilies\":[{\"name\":\"Acumin Pro\",\"fonts\":[{\"fontFamilyName\":\"Acumin Pro\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},{\"fontFamilyName\":\"Acumin Pro\",\"fontName\":\"Extra Light\",\"traits\":0,\"weight\":3},{\"fontFamilyName\":\"Acumin Pro\",\"fontName\":\"Thin\",\"traits\":65600,\"weight\":3}]},{\"name\":\"Adelle Condensed\",\"fonts\":[{\"fontFamilyName\":\"Adelle Condensed\",\"fontName\":\"Regular\",\"traits\":64,\"weight\":5},{\"fontFamilyName\":\"Adelle Condensed\",\"fontName\":\"SemiBold\",\"traits\":66,\"weight\":8}]}]}",
+      "themeMetadataVersion": 4,
+      "type": "cards"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E0BCFFE4-9E46-4BF2-B7A7-3F0F329E4D66",
+    "guides": [
+    ]
+  }
+}

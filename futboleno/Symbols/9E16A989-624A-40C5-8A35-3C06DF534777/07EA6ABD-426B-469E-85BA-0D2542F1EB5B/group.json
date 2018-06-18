@@ -15,15 +15,15 @@
     "constrainProportions": false,
     "height": 16,
     "width": 34,
-    "x": 77,
-    "y": 3
+    "x": 81,
+    "y": 6
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "text",

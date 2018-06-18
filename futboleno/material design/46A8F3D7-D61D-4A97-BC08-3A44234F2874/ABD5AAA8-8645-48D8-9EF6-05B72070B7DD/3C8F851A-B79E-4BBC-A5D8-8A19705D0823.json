@@ -1,0 +1,49 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "3C8F851A-B79E-4BBC-A5D8-8A19705D0823",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "435B1A41-DD08-4A1C-B6C2-5FA82F524E41",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "098B67DA-8303-42AD-B2EC-DCBCE3736AC5",
+    "height": 32,
+    "width": 32,
+    "x": 45,
+    "y": 166
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/2c057d8f510d013e24bc167990fd4434a9356987.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "america",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8BA9FEA5-A9EC-4F36-8559-33C35706A6D8",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

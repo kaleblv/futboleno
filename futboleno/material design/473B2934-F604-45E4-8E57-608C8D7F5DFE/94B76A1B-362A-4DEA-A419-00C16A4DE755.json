@@ -1,0 +1,75 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "94B76A1B-362A-4DEA-A419-00C16A4DE755",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AC0B3846-1E93-4BF9-B19D-8FA8734CE4EF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B5BE0B2D-1A99-4263-AB4A-AC31411A97A4",
+    "height": 84,
+    "width": 340,
+    "x": 9,
+    "y": 538
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "card-match copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "619254CE-5FED-4E3B-8C12-613231002510",
+      "overrideName": "B86FE6F2-AE12-4612-A6E3-0D56E842A213_stringValue",
+      "value": "Feb 20"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "136E35FD-0BC2-44BF-A62E-6BF55042279E",
+      "overrideName": "3FD4DBA7-81AC-47BB-B90C-8636A8F2AE3C_stringValue",
+      "value": "15:45"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "209791F7-2A7C-4811-AF56-96E22FB8EA69",
+      "overrideName": "363DD43F-4399-4047-8A42-06385ADE56FA_stringValue",
+      "value": "Atlas"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A90843FD-25A7-4454-9E87-D72B7737453C",
+      "overrideName": "734E0373-EC4D-4935-9001-C15BF6B0958A_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/76876fdc220ac43f523c942a14ca077e48ae1fe9.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "057EFC72-2C32-4BBD-92DD-5F031974BD69",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F8E16536-FE59-44B9-BD26-1FB362A52C61",
+  "verticalSpacing": 0
+}

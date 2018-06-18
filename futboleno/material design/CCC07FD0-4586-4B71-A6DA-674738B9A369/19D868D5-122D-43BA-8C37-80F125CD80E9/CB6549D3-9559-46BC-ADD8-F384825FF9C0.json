@@ -1,0 +1,49 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "CB6549D3-9559-46BC-ADD8-F384825FF9C0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A80E5F9C-F95D-48EA-A997-98759CAB9DF4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "C0C79E55-A4FC-48EA-8498-EA3AB09E15B7",
+    "height": 37,
+    "width": 37,
+    "x": 14,
+    "y": 84
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/35549d566a36e69c7d4e8de06dc8da3faefb5c16.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "monterrey",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BBB44EDD-DB10-47B5-A3B4-DFFC9D8B4A8A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

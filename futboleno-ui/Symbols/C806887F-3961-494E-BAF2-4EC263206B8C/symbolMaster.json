@@ -1,0 +1,110 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "5AA1A3D5-8DA7-4CCF-B1B4-DEE8A4123E99",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 42407,
+  "do_objectID": "C806887F-3961-494E-BAF2-4EC263206B8C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "194D8C6E-5905-4CF6-9E48-D3F90E1C61DE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ED78E17E-F26D-4E46-83AA-57C0602E33A9",
+    "height": 24,
+    "width": 24,
+    "x": 71944,
+    "y": 128
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 4,
+    "isEnabled": true,
+    "thickGridTimes": 40
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "911AE00D-588E-42D9-A164-A38BF7F99619",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "EF115F8E-AA0D-4AF7-88AA-8253D8E905AD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "09B591B1-9C07-47C0-AEDD-CDC490B8398F"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 48,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": false,
+    "gutterHeight": 4,
+    "gutterWidth": 2904,
+    "guttersOutside": false,
+    "horizontalOffset": -123,
+    "isEnabled": false,
+    "numberOfColumns": 2,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 3000
+  },
+  "name": "Selection Control / Checkbox / Off / Focused",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "31DB7EE3-AFB5-483F-A44B-9DDFD3F977B0",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F64B5EAC-2C8D-4BA4-A6F6-7633922CFC9E",
+  "userInfo": {
+    "com.google.ux.material.spec_tools": {
+      "theme": "{\"lastUpdatedUtc\":\"2018-06-17 18:40:12\",\"palettes\":{\"PRIMARY\":{\"colors\":[{\"red\":0.9579586956829916,\"green\":0.9863265621077518,\"blue\":0.9005102052397324,\"alpha\":1},{\"red\":0.8969732215900231,\"green\":0.9609433622516176,\"blue\":0.7507564149815511,\"alpha\":1},{\"red\":0.8279447267869474,\"green\":0.9390455407475187,\"blue\":0.5854901689264113,\"alpha\":1},{\"red\":0.7602793409776408,\"green\":0.9128958664625458,\"blue\":0.41320026238374064,\"alpha\":1},{\"red\":0.7091186156135436,\"green\":0.8906198150365284,\"blue\":0.2719513387111658,\"alpha\":1},{\"red\":0.6631079607732999,\"green\":0.8712944778691616,\"blue\":0.08781886758115873,\"alpha\":1},{\"red\":0.6235294117647059,\"green\":0.8,\"blue\":0.0392156862745098,\"alpha\":1},{\"red\":0.568956676933308,\"green\":0.7127412369940491,\"blue\":0,\"alpha\":1},{\"red\":0.51523169542317,\"green\":0.6210321672380371,\"blue\":0,\"alpha\":1},{\"red\":0.4275129483361549,\"green\":0.4695977132500279,\"blue\":0,\"alpha\":1}],\"mainColorIndex\":6,\"inkColor\":{\"red\":0,\"green\":0,\"blue\":0,\"alpha\":1}},\"SECONDARY\":{\"colors\":[{\"red\":0.9520007516518677,\"green\":0.987586184505746,\"blue\":0.8851667430796559,\"alpha\":1},{\"red\":0.9217205687132088,\"green\":0.9571302219007213,\"blue\":0.8553215017038037,\"alpha\":1},{\"red\":0.8818660894736262,\"green\":0.9170388305440322,\"blue\":0.8160568572961198,\"alpha\":1},{\"red\":0.8161066585931148,\"green\":0.8508737112980668,\"blue\":0.7513177934248946,\"alpha\":1},{\"red\":0.6745261808119758,\"green\":0.7083482968755388,\"blue\":0.6121718081162155,\"alpha\":1},{\"red\":0.5484937670381743,\"green\":0.581375024674086,\"blue\":0.48866244379722185,\"alpha\":1},{\"red\":0.3924391358360689,\"green\":0.4239859039327537,\"blue\":0.33642362295264866,\"alpha\":1},{\"red\":0.3169261893709484,\"green\":0.34774309607537945,\"blue\":0.26316763764061973,\"alpha\":1},{\"red\":0.1985317740459533,\"green\":0.22807851956412234,\"blue\":0.14919276552046715,\"alpha\":1},{\"red\":0.0784313725490196,\"green\":0.10196078431372549,\"blue\":0.00392156862745098,\"alpha\":1}],\"mainColorIndex\":9},\"SURFACE\":{\"colors\":[{\"red\":1,\"green\":1,\"blue\":1,\"alpha\":1},{\"red\":0.9807089859888657,\"green\":0.9807090923474681,\"blue\":0.9807090166169335,\"alpha\":1},{\"red\":0.9614896126428832,\"green\":0.9614897160775632,\"blue\":0.9614896423314422,\"alpha\":1},{\"red\":0.9423426493624547,\"green\":0.942342746714893,\"blue\":0.9423426768771613,\"alpha\":1},{\"red\":0.8692227753206838,\"green\":0.8692228576649179,\"blue\":0.8692227977439545,\"alpha\":1},{\"red\":0.762033684573245,\"green\":0.7620337541261238,\"blue\":0.7620337031299386,\"alpha\":1},{\"red\":0.5902992747236278,\"green\":0.5902993277528529,\"blue\":0.5902992886361145,\"alpha\":1},{\"red\":0.504871739011006,\"green\":0.5048717839890382,\"blue\":0.504871750679026,\"alpha\":1},{\"red\":0.37657369588808237,\"green\":0.3765737282854163,\"blue\":0.37657370399423673,\"alpha\":1},{\"red\":0.2366709262652505,\"green\":0.23667094522274518,\"blue\":0.2366709305962576,\"alpha\":1}],\"mainColorIndex\":0}},\"cornerType\":\"ROUNDED\",\"cornerSizesDp\":[3,3,3,3],\"textStyles\":{\"HEADLINE_1\":{\"font\":{\"fontFamilyName\":\"Adelle Condensed\",\"fontName\":\"Regular\",\"traits\":64,\"weight\":5},\"metrics\":{\"fontSize\":96.05823863636363}},\"HEADLINE_2\":{\"font\":{\"fontFamilyName\":\"Adelle Condensed\",\"fontName\":\"Regular\",\"traits\":64,\"weight\":5},\"metrics\":{\"fontSize\":60.036399147727266}},\"HEADLINE_3\":{\"font\":{\"fontFamilyName\":\"Adelle Condensed\",\"fontName\":\"Regular\",\"traits\":64,\"weight\":5},\"metrics\":{\"fontSize\":48.02911931818181}},\"HEADLINE_4\":{\"font\":{\"fontFamilyName\":\"Adelle Condensed\",\"fontName\":\"Regular\",\"traits\":64,\"weight\":5},\"metrics\":{\"fontSize\":34.02062618371212}},\"HEADLINE_5\":{\"font\":{\"fontFamilyName\":\"Adelle Condensed\",\"fontName\":\"Regular\",\"traits\":64,\"weight\":5},\"metrics\":{\"fontSize\":24.014559659090907}},\"HEADLINE_6\":{\"font\":{\"fontFamilyName\":\"Adelle Condensed\",\"fontName\":\"Regular\",\"traits\":64,\"weight\":5},\"metrics\":{\"fontSize\":20.012133049242422}},\"SUBTITLE_1\":{\"font\":{\"fontFamilyName\":\"Acumin Pro\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":16.672830374753453}},\"SUBTITLE_2\":{\"font\":{\"fontFamilyName\":\"Acumin Pro\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":14.58872657790927}},\"BODY_1\":{\"font\":{\"fontFamilyName\":\"Acumin Pro\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":16.672830374753453}},\"BODY_2\":{\"font\":{\"fontFamilyName\":\"Acumin Pro\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":14.58872657790927}},\"CAPTION\":{\"font\":{\"fontFamilyName\":\"Acumin Pro\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":12.50462278106509}},\"BUTTON\":{\"font\":{\"fontFamilyName\":\"Acumin Pro\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":14.58872657790927}},\"OVERLINE\":{\"font\":{\"fontFamilyName\":\"Acumin Pro\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":12.50462278106509}}},\"selectedFontFamilies\":[{\"name\":\"Acumin Pro\",\"fonts\":[{\"fontFamilyName\":\"Acumin Pro\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},{\"fontFamilyName\":\"Acumin Pro\",\"fontName\":\"Extra Light\",\"traits\":0,\"weight\":3},{\"fontFamilyName\":\"Acumin Pro\",\"fontName\":\"Thin\",\"traits\":65600,\"weight\":3}]},{\"name\":\"Adelle Condensed\",\"fonts\":[{\"fontFamilyName\":\"Adelle Condensed\",\"fontName\":\"Regular\",\"traits\":64,\"weight\":5},{\"fontFamilyName\":\"Adelle Condensed\",\"fontName\":\"SemiBold\",\"traits\":66,\"weight\":8}]}]}",
+      "themeMetadataVersion": 4,
+      "type": "checkboxes"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "12079B38-53AA-4EB6-99CB-467AD314C5D3",
+    "guides": [
+    ]
+  }
+}

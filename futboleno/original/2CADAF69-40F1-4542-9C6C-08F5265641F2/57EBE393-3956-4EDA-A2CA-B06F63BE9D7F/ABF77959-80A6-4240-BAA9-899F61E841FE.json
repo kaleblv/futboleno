@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "ABF77959-80A6-4240-BAA9-899F61E841FE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 251,
+    "width": 360,
+    "x": 28,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "header_club",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B425F903-3486-4855-ABB5-DB4B339DD028",
+      "overrideName": "22A62BE3-3EB0-4476-8409-00F19ED1087F_stringValue",
+      "value": "Santos"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E52C751E-BF5C-479F-9E7B-8891B015339F",
+      "overrideName": "33DC2AAD-1A03-45CA-8F2E-08249E9A9ABD_stringValue",
+      "value": "México"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "804E743A-D8FE-4F65-98F8-3169055E8118",
+  "verticalSpacing": 0
+}

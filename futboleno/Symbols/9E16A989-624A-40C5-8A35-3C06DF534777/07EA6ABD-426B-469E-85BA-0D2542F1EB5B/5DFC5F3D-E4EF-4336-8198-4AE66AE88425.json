@@ -9,7 +9,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+              "name": "AcuminPro-Regular",
               "size": 13
             }
           },
@@ -40,12 +40,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
+    "height": 15.6000052690506,
     "width": 34,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 3}, {33, 11}}",
+  "glyphBounds": "{{0, 1}, {30, 10}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -87,7 +87,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+            "name": "AcuminPro-Regular",
             "size": 13
           }
         },

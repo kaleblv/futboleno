@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Light",
-              "size": 10
+              "name": "AcuminPro-Medium",
+              "size": 11
             }
           },
           "paragraphStyle": {
@@ -47,12 +47,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 13,
-    "width": 31,
-    "x": 54.93978590544157,
-    "y": 155.3309545049065
+    "height": 14,
+    "width": 34,
+    "x": 52.5,
+    "y": 155
   },
-  "glyphBounds": "{{0, 2}, {30, 9}}",
+  "glyphBounds": "{{0, 0}, {34, 9}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -84,8 +84,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Light",
-            "size": 10
+            "name": "AcuminPro-Medium",
+            "size": 11
           }
         },
         "paragraphStyle": {

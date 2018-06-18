@@ -1,0 +1,49 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "D2B8EBDE-EF38-446F-B213-8048710580F8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6458A0E6-B379-4F3B-97A0-D7F13691776E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "F89E4A2E-F0E1-4378-B8D7-D730575472E5",
+    "height": 35,
+    "width": 35,
+    "x": 44,
+    "y": 292
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/b5f0bcd470d56cbf53e5c645cb46732f877ebd93.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "toluca",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F450A98A-E3F7-4597-964F-0B845FF744EA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

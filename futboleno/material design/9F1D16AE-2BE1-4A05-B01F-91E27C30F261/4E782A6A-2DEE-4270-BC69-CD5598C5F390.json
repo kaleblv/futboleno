@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4E782A6A-2DEE-4270-BC69-CD5598C5F390",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "02123FA8-16E0-4C30-B2EB-88B60A43E3F2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8B638964-0EF5-402D-B364-1E7531DF055C",
+    "height": 46,
+    "width": 46,
+    "x": 157,
+    "y": 266
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "ic_play",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5919830D-8506-473B-AFD5-6BD6C00ECEF0",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D36E706D-255F-4BDF-9094-F39DE0485B7D",
+  "verticalSpacing": 0
+}

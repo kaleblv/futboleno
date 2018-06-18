@@ -1,0 +1,49 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "01A73C6C-71E9-433E-BFEA-350748B0493A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "704385D6-5A2B-4B35-B25D-4605DBE19752",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "8C1CF754-03D4-4927-BB2A-87B3E0A3667E",
+    "height": 35,
+    "width": 35,
+    "x": 44,
+    "y": 381
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/a49bae3fac9d3f7e580700141a5706d30acd2efd.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "leon",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "45985790-619A-4F22-BDF2-FFAADFCA7A8F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

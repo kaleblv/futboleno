@@ -1,0 +1,49 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "4DE58026-F104-4312-AF5B-E19D98A826EE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9B363179-DC7C-4A39-9A83-2EE19F66F5E2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "5EFB928D-A3DE-495A-9906-0ACD6C4A12D5",
+    "height": 35,
+    "width": 35,
+    "x": 15,
+    "y": 253
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/652f5c18d4fd16b003d9a61b8cf425b0ff702880.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "pumas copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0579F502-89E4-4B5D-A0D6-5FF3600B3678",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

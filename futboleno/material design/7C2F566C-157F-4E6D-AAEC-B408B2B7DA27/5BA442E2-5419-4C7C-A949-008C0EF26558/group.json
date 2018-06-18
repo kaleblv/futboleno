@@ -1,0 +1,104 @@
+{
+  "_class": "group",
+  "do_objectID": "5BA442E2-5419-4C7C-A949-008C0EF26558",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7FD3DA98-5A12-4A40-9654-E184D77A3052",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "790CB574-645E-4A29-A228-B794EC8496B9",
+    "height": 413,
+    "width": 360,
+    "x": 0,
+    "y": 228
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "17A9C79E-A357-426A-907A-C9BFD3CB5E5B"
+    },
+    {
+      "class": "text",
+      "id": "DCE746BA-0F7C-4048-9996-AA95FAF851FE"
+    },
+    {
+      "class": "text",
+      "id": "8BDB3C79-C56C-4229-80D1-698FC736810D"
+    },
+    {
+      "class": "text",
+      "id": "E350AD01-9C1B-423D-B23D-165A40D8EDE0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8E5D112C-B39D-48A7-9378-1BA102A4981B"
+    },
+    {
+      "class": "bitmap",
+      "id": "DC41011F-6E68-404F-9A99-CFF01C70CF59"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ED006AD2-2930-4F25-B006-9F2BEDC50FD5"
+    },
+    {
+      "class": "bitmap",
+      "id": "DED2DAF4-98E6-449E-B58A-8B317E9109A0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1DA09A92-F4AB-49DC-84EE-940694BFE4E2"
+    },
+    {
+      "class": "bitmap",
+      "id": "3DBC2FDF-F560-4F70-A5FF-DC5D2D031F84"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "98E789C0-7897-44A3-9ECB-30CC04367797"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9DD015AC-9D85-49AB-BE51-F8F73FDCC898"
+    },
+    {
+      "class": "group",
+      "id": "1B0F63AC-BFCB-49C2-9E8A-F46274266F30"
+    },
+    {
+      "class": "text",
+      "id": "1000D3C9-F091-46A3-92FD-CDF0E7539761"
+    },
+    {
+      "class": "text",
+      "id": "A861E20B-889D-4143-8CA4-FDCB12BC9FAC"
+    }
+  ],
+  "name": "card",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D7126531-AD1A-4393-825D-C616709C7F5C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
