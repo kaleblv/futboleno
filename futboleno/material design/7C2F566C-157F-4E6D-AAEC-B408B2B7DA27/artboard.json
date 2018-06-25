@@ -16,7 +16,7 @@
         "_class": "exportFormat",
         "absoluteSize": 0,
         "do_objectID": "9A6A4621-F12F-45C0-836C-A69090731264",
-        "fileFormat": "png",
+        "fileFormat": "jpg",
         "name": "",
         "namingScheme": 0,
         "scale": 1,
@@ -38,7 +38,7 @@
     "y": 1635
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,

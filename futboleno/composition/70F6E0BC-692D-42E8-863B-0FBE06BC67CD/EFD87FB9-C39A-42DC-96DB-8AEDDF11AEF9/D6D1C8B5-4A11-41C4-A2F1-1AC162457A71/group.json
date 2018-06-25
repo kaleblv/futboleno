@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "D6D1C8B5-4A11-41C4-A2F1-1AC162457A71",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3CCB7A3A-ABF4-4E0C-A70E-E838B3021E10",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C631E9BA-AB2E-4D43-B517-7ADC87B4F6A2",
+    "height": 128,
+    "width": 565,
+    "x": -26,
+    "y": -10
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "4AD9AF29-8E6C-445D-92DF-85172B9E5C3F"
+    },
+    {
+      "class": "text",
+      "id": "1584915F-F001-4D8A-BEB6-B9146F79D314"
+    }
+  ],
+  "name": "logo futboleno",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "9A734161-E556-46EB-BC2B-BE87FC355F1D",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 27.72,
+      "type": 0
+    },
+    "do_objectID": "3ABB2123-2B58-4A47-9471-E8C4535D6D82",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

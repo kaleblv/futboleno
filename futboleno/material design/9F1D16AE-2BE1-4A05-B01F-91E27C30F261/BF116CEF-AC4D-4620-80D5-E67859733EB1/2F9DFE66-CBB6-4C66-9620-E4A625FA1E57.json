@@ -9,7 +9,7 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.003921568627450978,
+            "blue": 0.003921568627450979,
             "green": 0.1019607843137255,
             "red": 0.0784313725490196
           },
@@ -85,7 +85,7 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.003921568627450978,
+          "blue": 0.003921568627450979,
           "green": 0.1019607843137255,
           "red": 0.0784313725490196
         },

@@ -1,0 +1,49 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "0FA77411-E7BD-4167-A1C5-9BAD98A2EFDE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4EE26C1E-0941-4EB1-959E-9EF546EF7837",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "A761324E-594A-4E83-9191-98A3F1A5A151",
+    "height": 705,
+    "width": 1031,
+    "x": 357,
+    "y": 190
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/317dcb33fdb64887622ad162fe7a9c7909b28115.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "smartphone-bg",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "157186C9-1B77-4A57-8C4E-DAA281C3E999",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
