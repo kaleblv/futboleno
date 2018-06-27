@@ -12,6 +12,15 @@
     "_class": "exportOptions",
     "do_objectID": "9B6922D4-FB53-4915-AEC2-C7A4F88BB53F",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -51,7 +60,7 @@
     },
     {
       "class": "bitmap",
-      "id": "CDDFB539-9397-4637-8B2C-176C6C77F413"
+      "id": "CF219FB6-1377-49F2-B42A-6D48A5DA9BFD"
     },
     {
       "class": "shapeGroup",

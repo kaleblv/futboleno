@@ -15,14 +15,14 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 2188,
-    "width": 3886,
-    "x": -2236,
-    "y": -452
+    "height": 1756,
+    "width": 2614,
+    "x": -567,
+    "y": -14
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/c18787de4caafac25c683a6b979468261ee844db.png",
+    "_ref": "images/19c32b2e2462f81c1fc857b97c476be689d6bbdb.png",
     "_ref_class": "MSImageData"
   },
   "intendedDPI": 72,
@@ -41,8 +41,8 @@
     "_class": "style",
     "contextSettings": {
       "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "opacity": 0.2071986726352147
+      "blendMode": 2,
+      "opacity": 1
     },
     "endDecorationType": 0,
     "miterLimit": 10,

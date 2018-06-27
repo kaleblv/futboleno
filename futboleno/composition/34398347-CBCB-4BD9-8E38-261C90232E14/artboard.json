@@ -3,16 +3,24 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "do_objectID": "4E859A40-1DC8-4F07-9D08-3095F7283FF6",
-    "green": 1,
-    "red": 1
+    "blue": 0.9686274509803922,
+    "green": 0.9686274509803922,
+    "red": 0.9686274509803922
   },
   "do_objectID": "34398347-CBCB-4BD9-8E38-261C90232E14",
   "exportOptions": {
     "_class": "exportOptions",
     "do_objectID": "D3035E3E-5EDA-4D28-812B-EB7BDAFFB324",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -23,12 +31,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "F704CD1F-802C-499E-B5DD-AD1EF8EA9036",
-    "height": 891,
+    "height": 1033,
     "width": 1200,
     "x": -681,
     "y": 4076
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -44,10 +52,18 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "bitmap",
+      "id": "7C847D91-207D-4E6D-85EA-C9DBE0B79605"
+    },
+    {
+      "class": "group",
+      "id": "5E977F8F-08DE-4A34-B9B5-65D0CB881789"
+    }
   ],
-  "name": "06-sitemap-wireframes",
+  "name": "04-sitemap-wireframes",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
