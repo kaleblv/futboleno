@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "do_objectID": "E5D22536-551A-4A20-8D65-1EF8D043784B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "91C61291-35A0-4C34-B8A4-791DA2FB878E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "9D694DB0-83F9-49A8-959B-8902E27A0EEE",
+    "height": 468,
+    "width": 351,
+    "x": 5,
+    "y": 232
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "0F507653-EA6F-4D72-A032-D5E06EA9A675"
+    },
+    {
+      "class": "group",
+      "id": "422C55CF-6299-4A86-986F-C0D4C02EA113"
+    },
+    {
+      "class": "group",
+      "id": "A5514203-89B0-4275-B6F8-DB573017ED3B"
+    },
+    {
+      "class": "group",
+      "id": "0F7E4088-A4C5-4B81-B7B0-03F51410B6A5"
+    },
+    {
+      "class": "group",
+      "id": "E74F4295-4AA5-4C33-AA66-A752EB099B52"
+    },
+    {
+      "class": "group",
+      "id": "28C27AF1-4554-4FAB-BDED-49EBDC50DD71"
+    },
+    {
+      "class": "group",
+      "id": "ECD9625D-1CC1-4DDE-8CCA-12DB0689B3C5"
+    },
+    {
+      "class": "group",
+      "id": "50753EAC-D24A-4FF9-9078-39E4A914E46C"
+    },
+    {
+      "class": "group",
+      "id": "DF68ECC8-33B1-4F2B-9C00-39395BE2EB3F"
+    },
+    {
+      "class": "group",
+      "id": "BDEED54D-EDC3-4331-AC41-7273145BC2D7"
+    },
+    {
+      "class": "group",
+      "id": "16CA06E4-67BE-42C2-9864-B3A397FA9E2A"
+    },
+    {
+      "class": "group",
+      "id": "943613D3-CD68-46E3-99D3-9E62E44C3BB6"
+    }
+  ],
+  "name": "cards",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6EF5DFAC-EAAA-42B3-9A6D-4C50107E7CB7",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

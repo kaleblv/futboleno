@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "EAFF0103-9D69-474D-AFE8-A87D9EC5DFFF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E4259FA7-B690-401D-8FF1-365075144AAB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6176C11B-FF51-48FB-93A9-521B7CC4FACC",
+    "height": 84,
+    "width": 340,
+    "x": 9,
+    "y": 446
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "card-match copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "59643823-E230-498D-A314-99ECD6C2D9C8",
+      "overrideName": "7EC55CFC-31B8-4199-A502-520E8822A264_stringValue",
+      "value": "Necaxa"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0F1F24DD-8E42-4025-BB5C-78277117269B",
+      "overrideName": "51C62FE8-43FD-4D75-8658-41438C0CE862_stringValue",
+      "value": "Santos"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D87BE5AA-6257-4D04-89F6-EDF477D4A5F3",
+      "overrideName": "8F813B90-DAB9-446F-873A-03AB4A0062A6_stringValue",
+      "value": "1   :   0"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "257608B5-CBAF-41FE-A942-43FB92E035DD",
+      "overrideName": "C214CC5F-946F-4F57-9DAD-CF072905AD32_stringValue",
+      "value": "Feb 11"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5AD311DF-6997-4BFD-809B-CDCD911A110A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2FDCC749-3B6D-4995-99D2-CB6EAF622ACC",
+  "verticalSpacing": 0
+}

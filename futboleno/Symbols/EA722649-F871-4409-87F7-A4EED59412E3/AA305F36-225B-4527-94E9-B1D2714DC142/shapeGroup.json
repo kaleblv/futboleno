@@ -1,0 +1,79 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "AA305F36-225B-4527-94E9-B1D2714DC142",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "48CA744E-EC91-46E9-88ED-784726A74883",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "FEBFCDBC-02F6-4775-8C25-778AAA9B6DA7",
+    "height": 11.91335740072202,
+    "width": 17.87003610108303,
+    "x": 18.51985559566788,
+    "y": 44.83754512635369
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "30244C8F-31BF-4997-8EFB-EA02A8A18215"
+    },
+    {
+      "class": "shapePath",
+      "id": "D36BB08E-260B-4BCD-8136-4FE36BCF157D"
+    },
+    {
+      "class": "shapePath",
+      "id": "D17B70F2-7CCE-405B-8F00-6D1FE5E3D854"
+    }
+  ],
+  "name": "it_menu",
+  "nameIsFixed": true,
+  "originalObjectID": "1B6DC7CD-3BE0-4519-9C69-60E725ADDDD4",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DE2DD1F0-0004-44C8-929C-FCF1A0AA25E5",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.104671556122449,
+          "green": 0.104671556122449,
+          "red": 0.104671556122449
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "DC56376C-8162-4E24-BB3C-91C5B43AD324",
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

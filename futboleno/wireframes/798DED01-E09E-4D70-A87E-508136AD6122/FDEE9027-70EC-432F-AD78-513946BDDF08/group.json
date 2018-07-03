@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "do_objectID": "FDEE9027-70EC-432F-AD78-513946BDDF08",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7449E20E-E87C-4552-A00F-D1BFDC04471E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "6A7982BD-4ED6-4F9A-9082-309F92EEB384",
+    "height": 120,
+    "width": 340,
+    "x": 10,
+    "y": 334
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0E82B58D-CE1E-48DA-BB9B-5FEEBB44B5A6"
+    },
+    {
+      "class": "text",
+      "id": "099964E8-0EBB-49B7-8A8F-A9A5BD5C5880"
+    },
+    {
+      "class": "text",
+      "id": "FD0E3A26-A44B-48B9-AF3F-AF3B9FB6E869"
+    },
+    {
+      "class": "text",
+      "id": "6342A944-4DF1-4C1D-BEEB-3543F0480098"
+    },
+    {
+      "class": "text",
+      "id": "6C4EEA6E-7DA7-4B7E-9D5F-569CB4D60E90"
+    },
+    {
+      "class": "text",
+      "id": "BC2A5691-BBA3-4A53-B510-AC3CEB391CF5"
+    },
+    {
+      "class": "text",
+      "id": "346B0955-B3A2-4707-BFA9-C5C2DEF57A18"
+    },
+    {
+      "class": "group",
+      "id": "79FF58AB-1288-4002-BC9E-CFB1C8090D61"
+    },
+    {
+      "class": "group",
+      "id": "5D29E240-A712-4A4E-A3F6-FC97870632B4"
+    },
+    {
+      "class": "group",
+      "id": "518433DE-B510-43BE-84FB-E523B837AAB9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DBCA19DC-8C12-4A6C-BAEC-A3356A10A788"
+    },
+    {
+      "class": "text",
+      "id": "988FADC5-BCFD-4331-B9DC-F2A15072DE61"
+    }
+  ],
+  "name": "card_result",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E6C3B284-E6BF-4CF0-B41A-600A8EC35057",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

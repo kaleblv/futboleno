@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "35E0D061-A11D-489C-BB78-189C51C8E771",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1E29B82A-0B45-44FC-89D1-9FA8DB5120B8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "16982E06-1974-432B-8263-D497EC54C0F0",
+    "height": 84,
+    "width": 340,
+    "x": 9,
+    "y": 354
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "card-match copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2BA848C6-98AF-4B9C-AC8D-CFF005374833",
+      "overrideName": "51C62FE8-43FD-4D75-8658-41438C0CE862_stringValue",
+      "value": "Monarcas"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C0A0464A-1E53-4D5E-9398-4D2A73FAE89D",
+      "overrideName": "8F813B90-DAB9-446F-873A-03AB4A0062A6_stringValue",
+      "value": "1   :   0"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A72F616C-B4D0-4940-85A0-C89687874DC5",
+      "overrideName": "C214CC5F-946F-4F57-9DAD-CF072905AD32_stringValue",
+      "value": "Feb 04"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9B349F80-7624-4B1C-989A-A9CB4030F7EC",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2FDCC749-3B6D-4995-99D2-CB6EAF622ACC",
+  "verticalSpacing": 0
+}

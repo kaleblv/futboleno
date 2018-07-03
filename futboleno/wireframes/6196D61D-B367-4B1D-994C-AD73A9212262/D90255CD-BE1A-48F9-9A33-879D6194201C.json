@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D90255CD-BE1A-48F9-9A33-879D6194201C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "173F82A6-DB2B-4F81-B76B-67F5ECF4424E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9551E936-C687-46AD-8F5E-0EBCE017E1EF",
+    "height": 84,
+    "width": 340,
+    "x": 9,
+    "y": 538
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "card-match copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "845FDEBA-182D-4C99-831B-3CF08C80E1F4",
+      "overrideName": "51C62FE8-43FD-4D75-8658-41438C0CE862_stringValue",
+      "value": "Atlas"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D8985D17-D27A-4F53-90C4-BF35CB57B83F",
+      "overrideName": "8F813B90-DAB9-446F-873A-03AB4A0062A6_stringValue",
+      "value": "15:45"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CEB47DAB-6330-4208-B621-A99809EBF29A",
+      "overrideName": "C214CC5F-946F-4F57-9DAD-CF072905AD32_stringValue",
+      "value": "Feb 20"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "75773D96-E917-44F4-BFE5-D55F3EF30911",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2FDCC749-3B6D-4995-99D2-CB6EAF622ACC",
+  "verticalSpacing": 0
+}

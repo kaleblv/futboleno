@@ -1,0 +1,49 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "97510C25-7C38-446E-8E29-AC54AD95964A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DB4B2209-6775-419D-A829-E07894F9D28F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "AD803A62-C40C-4F00-BAB7-1D760949E92B",
+    "height": 29,
+    "width": 29,
+    "x": 79,
+    "y": 99
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/9f64e4572a76088ca3c9bec9fc138731329e77c2.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "flag-mexico-circle",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3BE8CB29-2BC8-4A7C-BB34-ABAAC00AFBB3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

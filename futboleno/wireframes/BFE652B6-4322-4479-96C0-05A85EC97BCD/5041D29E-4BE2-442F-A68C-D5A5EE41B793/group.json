@@ -1,0 +1,104 @@
+{
+  "_class": "group",
+  "do_objectID": "5041D29E-4BE2-442F-A68C-D5A5EE41B793",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BFEC5B64-3149-4CB6-9C68-FBF7EDA05CFF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "082D3B07-94A5-460D-BC0C-5446EB84A7DD",
+    "height": 417,
+    "width": 362,
+    "x": -1,
+    "y": 251
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E5FAAC8A-C15E-4945-8B81-E944D09A0E41"
+    },
+    {
+      "class": "text",
+      "id": "DF70C83D-8AEE-4565-A549-759CC13FF2F8"
+    },
+    {
+      "class": "text",
+      "id": "E4EFD321-7900-461C-923F-DC843F2BD15D"
+    },
+    {
+      "class": "group",
+      "id": "0452AF81-36AD-439A-A401-C3A3D6832D0A"
+    },
+    {
+      "class": "group",
+      "id": "6FA25FBF-3132-42CC-81B1-D14010507FCD"
+    },
+    {
+      "class": "group",
+      "id": "7661FAF0-8307-47F6-822A-641B1DD5DBBD"
+    },
+    {
+      "class": "group",
+      "id": "F128ABBB-CCB5-4CC9-A4D7-ACC0382C6227"
+    },
+    {
+      "class": "group",
+      "id": "587192D1-2266-4726-BB09-8251B173281D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "39492B3A-43FE-4135-9B7E-09A0542667BD"
+    },
+    {
+      "class": "text",
+      "id": "C203BBBD-8BBF-4A74-AE17-4639F1B7FAA4"
+    },
+    {
+      "class": "text",
+      "id": "11FBE018-8749-4A04-B386-8E1F3FD45E51"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E042DFE0-22FD-402D-9D57-20C2C96F89BE"
+    },
+    {
+      "class": "text",
+      "id": "DC715222-143C-4784-BE4E-E8A463C5CBD8"
+    },
+    {
+      "class": "group",
+      "id": "D314BB0B-83C7-409B-8512-A53E7FC7DAF2"
+    },
+    {
+      "class": "text",
+      "id": "53C424CB-9FC7-47BD-9C4B-5FA5BBA5FEE0"
+    }
+  ],
+  "name": "card",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "22A1E76E-AC09-4317-9B9B-6CE51368DAF0",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9607843137254902,
+    "do_objectID": "9C4F94CD-D53C-4E5D-BE3A-E1B340C92765",
+    "green": 0.9607843137254902,
+    "red": 0.9607843137254902
+  },
+  "do_objectID": "595CA9EF-2123-4240-BF63-8885765BF3A3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "17E5DD44-4149-4EF1-9D33-28D0B9BEA7B9",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FD20A037-94B2-44E7-B351-82049B22BA51",
+    "height": 640,
+    "width": 360,
+    "x": 572,
+    "y": 255
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BA50BC32-2966-46CA-B4D1-1D3054DE2FD2",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "3EA3B5B2-B84B-4D0B-8D2A-B45BB717F42A"
+    },
+    {
+      "class": "group",
+      "id": "A41E423C-E805-4DFE-A2A4-3597197D52D9"
+    },
+    {
+      "class": "group",
+      "id": "AF711035-CA2A-4915-98A0-58C22E638170"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "47139935-C200-4DCB-909F-31BE08D488B2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "67AF929E-1A9C-45CE-84D4-D21640FAD95A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A951D5C3-61D5-4F4B-A8BE-3EAE1C529D06"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F7507F45-2BF1-476B-BAAF-9C0BB3A645D0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3C97B713-89C1-4E36-8EE4-E38D2FD324A0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "007C0EF9-331B-4FE5-A40D-FF8C663B69BE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "21262B77-86E1-4B1F-B906-1D8C1255FB7D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2160E9F6-B9B3-4CDF-83B6-0DD4C1C26801"
+    }
+  ],
+  "name": "team_season",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FFDA1FF3-1C7F-44E5-85A4-5810751F4552",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1432BF85-8AD4-4ABD-9DD8-6F349D6727A5",
+    "guides": [
+    ]
+  }
+}
