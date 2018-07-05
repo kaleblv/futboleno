@@ -1,0 +1,107 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.1960784314,
+            "green": 0.1647058824,
+            "red": 0.1019607843
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "ComicNeueAngular",
+              "size": 15
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 22,
+            "minimumLineHeight": 22
+          }
+        },
+        "length": 51,
+        "location": 0
+      }
+    ],
+    "string": "Nahuel Guzmán rayado, \nINFOBAE dio la información  "
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "E7EA4561-56FC-499B-97A7-ECF2570625F9",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CA08CC0A-98FC-4D84-A8BD-F666B6DBE482",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "78FA93D0-1202-42D2-A7A6-F7DE941E6C4E",
+    "height": 44,
+    "width": 182,
+    "x": 20.66666666666663,
+    "y": 18.33333333333331
+  },
+  "glyphBounds": "{{0, 3}, {181, 34}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 1,
+  "name": "Nahuel Guzmán rayado",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C2922667-E153-4CD6-B256-29EB5882773D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "30116A38-704F-44B1-B86F-BBAB406183E2",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "D1DE95FE-DAA6-45F1-AB9D-171890C4D913",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1960784314,
+          "green": 0.1647058824,
+          "red": 0.1019607843
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "ComicNeueAngular",
+            "size": 15
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 22,
+          "minimumLineHeight": 22
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 0
+}

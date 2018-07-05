@@ -1,0 +1,103 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.1171459768642996,
+            "green": 0.1428305697278912,
+            "red": 0.1184110128579208
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "ComicNeueAngular",
+              "size": 13
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "allowsDefaultTighteningForTruncation": 0
+          }
+        },
+        "length": 46,
+        "location": 0
+      }
+    ],
+    "string": "El Club Universitario se renovará por completo"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "24EB4F98-6F7D-4C7C-8981-0E97A44A2647",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E4CFB8C0-D913-4063-957E-E93DE13BC042",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D4DCD7B7-17EB-4D26-AC5C-DE06DE9C439F",
+    "height": 16,
+    "width": 266,
+    "x": 19.66666666666663,
+    "y": 208.3333333333334
+  },
+  "glyphBounds": "{{0, 3}, {266, 13}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 0,
+  "name": "El Club Universitari",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "23416F62-7301-41BA-893E-4AB178AD18F8",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "F3D0FFAA-102A-45ED-982E-13FD53E37090",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "EFC48877-2C23-43F2-B99B-6D751BCB04D2",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1171459768642996,
+          "green": 0.1428305697278912,
+          "red": 0.1184110128579208
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "ComicNeueAngular",
+            "size": 13
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "allowsDefaultTighteningForTruncation": 0
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 0
+}

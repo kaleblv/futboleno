@@ -74,6 +74,22 @@
     {
       "class": "group",
       "id": "8BC6A479-DA41-424A-8BA7-3E32E0355970"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2E7895EF-846E-48E6-A5B7-35B8AC96B43B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "42D27DA7-B0F3-41C7-BE6A-B7C613F23327"
+    },
+    {
+      "class": "text",
+      "id": "6C33AD04-C9F5-4FC6-B466-DC33F95BCE2A"
+    },
+    {
+      "class": "text",
+      "id": "047FB7B8-E3B1-49C3-8A5A-4B1006F8F745"
     }
   ],
   "name": "login",
